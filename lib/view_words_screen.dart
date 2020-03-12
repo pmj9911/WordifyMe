@@ -18,7 +18,7 @@ class _ViewWordsState extends State<ViewWords> {
 
   fetchJSON() async {
     var response = await http.get(
-      "http://64cf6767.ngrok.io/wordsApp/viewwords/",
+      "http://pmj9911.pythonanywhere.com//wordsApp/viewwords/",
       headers: {"Accept": "application/json"},
     );
 

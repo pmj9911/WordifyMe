@@ -20,7 +20,7 @@ class AddNewWordState extends State<AddNewWord> {
   // Note: This is a GlobalKey<FormState>,
   // not a GlobalKey<AddNewWordState>.
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
-  String url = "http://64cf6767.ngrok.io/wordsApp/addword/";
+  String url = "http://pmj9911.pythonanywhere.com//wordsApp/addword/";
   bool _autoValidate = false;
   String _word;
   String _meaning;
@@ -51,6 +51,7 @@ class AddNewWordState extends State<AddNewWord> {
 
   Widget formUI() {
     return new Column(
+      
       children: <Widget>[
         new TextFormField(
           decoration: const InputDecoration(labelText: 'Word'),
@@ -107,10 +108,14 @@ class AddNewWordState extends State<AddNewWord> {
     DateTime selectedDate = DateTime.now();
     String dateSelect = DateFormat('yyyy-MM-dd').format(selectedDate);
 
-    return new Form(
-      key: _formKey,
-      autovalidate: _autoValidate,
-      child: formUI(),
+    return Container(
+      padding: EdgeInsets.all(10),
+      child: new Form(
+        key: _formKey,
+        autovalidate: _autoValidate,
+        child: formUI(),
+        
+      ),
     );
   }
 }

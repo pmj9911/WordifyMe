@@ -8,7 +8,7 @@ class ReviseWords extends StatefulWidget {
 }
 
 class _ReviseWordsState extends State<ReviseWords> {
-  String url = "http://64cf6767.ngrok.io/wordsApp/addword/";
+  String url = "http://pmj9911.pythonanywhere.com//wordsApp/addword/";
   bool _autoValidate = false;
   List<dynamic> wordsList;
   bool gotWords = false, isCorrect = false, isIncorrect = false;
@@ -20,7 +20,7 @@ class _ReviseWordsState extends State<ReviseWords> {
 
   fetchJSON() async {
     var response = await http.get(
-      "http://64cf6767.ngrok.io/wordsApp/viewwords/",
+      "http://pmj9911.pythonanywhere.com//wordsApp/viewwords/",
       headers: {"Accept": "application/json"},
     );
 
@@ -75,10 +75,22 @@ class _ReviseWordsState extends State<ReviseWords> {
 
   Widget formUI() {
     return new Column(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: <Widget>[
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[Text(currentWord)],
+          children: <Widget>[
+            Padding(
+              padding: const EdgeInsets.all(18.0),
+              child: Text(
+                currentWord,
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 24,
+                ),
+              ),
+            )
+          ],
         ),
         new TextFormField(
           decoration: const InputDecoration(labelText: 'Meaning'),
@@ -132,7 +144,6 @@ class _ReviseWordsState extends State<ReviseWords> {
       subtitle: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
-
           Icon(Icons.linear_scale, color: Colors.yellowAccent),
           Text(
             wordsList[current - 1]['meaning'],
@@ -151,35 +162,6 @@ class _ReviseWordsState extends State<ReviseWords> {
         child: makeListTile,
       ),
     );
-
-    // InkWell(
-    //   onTap: () {
-    //     // selectCatgory(context);
-    //   },
-    //   splashColor: Theme.of(context).primaryColor,
-    //   borderRadius: BorderRadius.circular(15),
-    //   child: Container(
-    //     padding: EdgeInsets.all(15),
-    //     child: Column(
-    //       children: <Widget>[
-    //         Text(title),
-    //         ,
-    //         Text(),
-    //       ],
-    //     ),
-    //     decoration: BoxDecoration(
-    //       gradient: LinearGradient(
-    //         colors: [
-    //           color.withOpacity(0.7),
-    //           color,
-    //         ],
-    //         begin: Alignment.topLeft,
-    //         end: Alignment.bottomRight,
-    //       ),
-    //       borderRadius: BorderRadius.circular(15),
-    //     ),
-    //   ),
-    // );
   }
 
   @override
@@ -189,11 +171,16 @@ class _ReviseWordsState extends State<ReviseWords> {
             children: <Widget>[
               Container(
                 width: MediaQuery.of(context).size.width,
+                height: 250,
+                padding: EdgeInsets.all(10),
                 child: Form(
                   key: _formKey,
                   autovalidate: _autoValidate,
                   child: formUI(),
                 ),
+              ),
+              Container(
+                height: 75,
               ),
               Container(
                 padding: EdgeInsets.all(15),
