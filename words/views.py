@@ -15,7 +15,6 @@ class addWord(APIView):
     def get(self,request):
         # todaydate = datetime.date.today()
         # print(todaydate)
-        return HttpResponse(status=403)
         # file = open("/home/parthjardosh/GRE/WordifyMe/media/wordsList.txt","r")
         # lines = file.readlines()
         # for i in range(len(lines)):
@@ -32,6 +31,7 @@ class addWord(APIView):
         # wordsList = WordDetail.objects.all()[:]
         # wordsJson = wordsList.values()[:]
         # return Response(wordsJson,content_type='application/json')
+        return HttpResponse(status=403)
 
     def post(self,request):
         try:
@@ -44,7 +44,7 @@ class addWord(APIView):
             wordsRow.save()
             print("example saved")
             if created:
-                file = open("C:\\Users\\parth jardosh\\Desktop\\verbal\\words\\GREWord\\media\\wordsList.txt","a+")
+                file = open("../media/wordsList.txt","a+")
                 file.write(word+" - "+meaning+"\n")
                 file.close()
             else:

@@ -10,4 +10,4 @@ class WordDetail(models.Model):
 	example = models.CharField(max_length=1000,blank=True,default="",null=True)
 
 	def __str__(self):
-			return str(self.word)
+			return str(self.word) + " - " + str(self.meaning)
