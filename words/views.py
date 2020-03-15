@@ -38,8 +38,11 @@ class addWord(APIView):
             word = request.POST.get('word')
             meaning = request.POST.get('meaning')
             date = request.POST.get('date')
-            wordsrow , created = WordDetail.objects.get_or_create(
-                                        word=word,meaning=meaning,dateEntered=date)
+            wordsRow , created = WordDetail.objects.get_or_create(
+                                        word=word)
+            wordsRow.example = request.POST.get('example')
+            wordsRow.save()
+            print("example saved")
             if created:
                 file = open("C:\\Users\\parth jardosh\\Desktop\\verbal\\words\\GREWord\\media\\wordsList.txt","a+")
                 file.write(word+" - "+meaning+"\n")
