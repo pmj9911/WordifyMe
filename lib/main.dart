@@ -39,18 +39,18 @@ class _MyHomePageState extends State<MyHomePage> {
         'title': 'View Words',
       },
       {
-        'page': AddNewWord(),
-        'title': 'Add New',
-      },
-      {
         'page': ReviseWords(),
         'title': 'Revise',
+      },
+      {
+        'page': AddNewWord(),
+        'title': 'Add New',
       },
     ];
     super.initState();
   }
 
-  int _selectedPageIndex = 2;
+  int _selectedPageIndex = 1;
   void _selectPage(int index) {
     setState(() {
       _selectedPageIndex = index;
@@ -60,6 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       appBar: AppBar(
         title: Center(
           child: Text(_pages[_selectedPageIndex]['title']),
@@ -78,12 +79,12 @@ class _MyHomePageState extends State<MyHomePage> {
             title: Text("View Words"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.fiber_new),
-            title: Text("Add new"),
-          ),
-          BottomNavigationBarItem(
             icon: Icon(Icons.book),
             title: Text("Revise"),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.fiber_new),
+            title: Text("Add new"),
           ),
         ],
       ),

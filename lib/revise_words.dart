@@ -8,7 +8,7 @@ class ReviseWords extends StatefulWidget {
 }
 
 class _ReviseWordsState extends State<ReviseWords> {
-  String url = "http://pmj9911.pythonanywhere.com//wordsApp/addword/";
+  String url = "https://pmj9911.pythonanywhere.com/wordsApp/addword/";
   bool _autoValidate = false;
   List<dynamic> wordsList;
   bool gotWords = false, isCorrect = false, isIncorrect = false;
@@ -17,10 +17,11 @@ class _ReviseWordsState extends State<ReviseWords> {
   String currentWord = "TEst";
   String currentMeaning = "Test";
   String inputMeaning = "";
+  bool _showExample = false;
 
   fetchJSON() async {
     var response = await http.get(
-      "http://pmj9911.pythonanywhere.com//wordsApp/viewwords/",
+      "https://pmj9911.pythonanywhere.com/wordsApp/viewwords/",
       headers: {"Accept": "application/json"},
     );
 
@@ -49,6 +50,7 @@ class _ReviseWordsState extends State<ReviseWords> {
     print(inputMeaning);
     print(currentMeaning);
     current++;
+
     _formKey.currentState.reset();
     inputMeaning = inputMeaning.trim();
     if (inputMeaning == currentMeaning) {
@@ -166,57 +168,84 @@ class _ReviseWordsState extends State<ReviseWords> {
 
   @override
   Widget build(BuildContext context) {
-    return gotWords
-        ? Column(
-            children: <Widget>[
-              Container(
-                width: MediaQuery.of(context).size.width,
-                height: 250,
-                padding: EdgeInsets.all(10),
-                child: Form(
-                  key: _formKey,
-                  autovalidate: _autoValidate,
-                  child: formUI(),
-                ),
-              ),
-              Container(
-                height: 75,
-              ),
-              Container(
-                padding: EdgeInsets.all(15),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-                  children: <Widget>[
-                    if (isCorrect)
-                      result(
-                          "CORRECT!", Colors.green, Icons.airplanemode_active),
-                    if (isIncorrect)
-                      result("INCORRECT!", Colors.red,
-                          Icons.airplanemode_inactive),
-                  ],
-                ),
-                decoration: BoxDecoration(
-                  // gradient: LinearGradient(
-                  // colors: [
-                  //   Colors.yellow.withOpacity(0.7),
-                  //   Colors.yellow,
-                  // ],
-                  //   begin: Alignment.topLeft,
-                  //   end: Alignment.bottomRight,
-                  // ),
-                  borderRadius: BorderRadius.circular(15),
-                ),
+    return Scaffold(
+      body: SingleChildScrollView(
+        child: gotWords
+            ? Column(
+                children: <Widget>[
+                  Container(
+                    width: MediaQuery.of(context).size.width,
+                    height: 250,
+                    padding: EdgeInsets.all(10),
+                    child: Form(
+                      key: _formKey,
+                      autovalidate: _autoValidate,
+                      child: formUI(),
+                    ),
+                  ),
+                  RaisedButton(
+                    onPressed: () {
+                      setState(() {
+                        _showExample = !_showExample;
+                      });
+                    },
+                    child: Text('Show Example!'),
+                  ),
+                  _showExample
+                      ? Container(
+                          height: 100,
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.spaceAround,
+                            children: <Widget>[
+                              Text(
+                                wordsList[current]['example'],
+                                style: TextStyle(
+                                    fontSize: 14, fontWeight: FontWeight.w500),
+                              ),
+                            ],
+                          ),
+                        )
+                      : Text(""),
+                  Container(
+                    padding: EdgeInsets.all(15),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceAround,
+                      children: <Widget>[
+                        if (isCorrect)
+                          result("CORRECT!", Colors.green,
+                              Icons.airplanemode_active),
+                        if (isIncorrect)
+                          result("INCORRECT!", Colors.red,
+                              Icons.airplanemode_inactive),
+                      ],
+                    ),
+                    decoration: BoxDecoration(
+                      // gradient: LinearGradient(
+                      // colors: [
+                      //   Colors.yellow.withOpacity(0.7),
+                      //   Colors.yellow,
+                      // ],
+                      //   begin: Alignment.topLeft,
+                      //   end: Alignment.bottomRight,
+                      // ),
+                      borderRadius: BorderRadius.circular(15),
+                    ),
+                  )
+                ],
               )
-            ],
-          )
-        : Row(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: <Widget>[
-              Center(
-                child: CircularProgressIndicator(),
+            : Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: <Widget>[
+                  Container(
+                    height: 600,
+                    child: Center(
+                      child: CircularProgressIndicator(),
+                    ),
+                  ),
+                ],
               ),
-            ],
-          );
+      ),
+    );
   }
 }

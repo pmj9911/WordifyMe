@@ -18,7 +18,7 @@ class _ViewWordsState extends State<ViewWords> {
 
   fetchJSON() async {
     var response = await http.get(
-      "http://pmj9911.pythonanywhere.com//wordsApp/viewwords/",
+      "https://pmj9911.pythonanywhere.com/wordsApp/viewwords/",
       headers: {"Accept": "application/json"},
     );
 
@@ -77,55 +77,67 @@ class _ViewWordsState extends State<ViewWords> {
       // dateSelect = DateFormat('yyyy-MM-dd').format(selectedDate);
     }
     return Column(
+      mainAxisAlignment: MainAxisAlignment.spaceAround,
       children: <Widget>[
         RaisedButton(
           onPressed: () => _selectDate(context),
           child: Text('Select date'),
         ),
-        Container(
-          height: 580,
-          child: isSelectedDate
-              ? ListView.builder(
-                  itemCount: wordsListDated.length,
-                  itemBuilder: (BuildContext ctxt, int index) {
-                    return Container(
-                      padding: EdgeInsets.all(15),
-                      child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        WordContainer(
+            isSelectedDate: isSelectedDate,
+            wordsListDated: wordsListDated,
+            newlyAddedWord: newlyAddedWord),
+      ],
+    );
+  }
+}
+
+class WordContainer extends StatelessWidget {
+  const WordContainer({
+    Key key,
+    @required this.isSelectedDate,
+    @required this.wordsListDated,
+    @required this.newlyAddedWord,
+  }) : super(key: key);
+
+  final bool isSelectedDate;
+  final List wordsListDated;
+  final String newlyAddedWord;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      height: 580,
+      child: isSelectedDate
+          ? ListView.builder(
+              itemCount: wordsListDated.length,
+              itemBuilder: (BuildContext ctxt, int index) {
+                return Container(
+                  padding: EdgeInsets.all(15),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: <Widget>[
+                      Text(wordsListDated[index]['word']),
+                      Text(" : "),
+                      Column(
                         children: <Widget>[
-                          Text(wordsListDated[index]['word']),
-                          Text(" : "),
-                          Text(wordsListDated[index]['meaning']),
+                          Text(wordsListDated[index]['meaning'])
                         ],
                       ),
-                      decoration:
-                          this.newlyAddedWord == wordsListDated[index]['word']
-                              ? BoxDecoration(
-                                  gradient: LinearGradient(
-                                    colors: [
-                                      Colors.yellow.withOpacity(0.7),
-                                      Colors.yellow,
-                                    ],
-                                    begin: Alignment.topLeft,
-                                    end: Alignment.bottomRight,
-                                  ),
-                                  borderRadius: BorderRadius.circular(15),
-                                )
-                              : BoxDecoration(),
-                    );
-                  },
-                )
-              : Row(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-                  children: <Widget>[
-                    Center(
-                      child: CircularProgressIndicator(),
-                    ),
-                  ],
+                    ],
+                  ),
+                );
+              },
+            )
+          : Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: <Widget>[
+                Center(
+                  child: CircularProgressIndicator(),
                 ),
-        ),
-      ],
+              ],
+            ),
     );
   }
 }

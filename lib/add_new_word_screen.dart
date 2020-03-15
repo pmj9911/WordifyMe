@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
@@ -19,24 +21,48 @@ class AddNewWordState extends State<AddNewWord> {
   //
   // Note: This is a GlobalKey<FormState>,
   // not a GlobalKey<AddNewWordState>.
+  List<dynamic> wordsList, wordsListDated;
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
-  String url = "http://pmj9911.pythonanywhere.com//wordsApp/addword/";
+  String url = "https://pmj9911.pythonanywhere.com/wordsApp/addword/";
   bool _autoValidate = false;
-  String _word;
-  String _meaning;
-  bool sent = false;
+  String _word, _meaning, _example;
+  bool sent = false, fetched = false;
+
+  fetchJSON() async {
+    var response = await http.get(
+      "https://pmj9911.pythonanywhere.com/wordsApp/viewwords/",
+      headers: {"Accept": "application/json"},
+    );
+
+    if (response.statusCode == 200) {
+      String responseBody = response.body;
+      var responseJSON = json.decode(responseBody);
+      wordsList = responseJSON;
+      print(wordsList);
+    } else {
+      print('Something went wrong. \nresponse Code : ${response.statusCode}');
+    }
+    setState(() {
+      fetched = true;
+    });
+  }
 
   @override
   void initState() {
-    sent = false;
+    fetchJSON();
+    setState(() {
+      print("fetched");
+      sent = false;
+    });
   }
 
-  Future<String> sendWord(word, meaning) async {
+  Future<String> sendWord(word, meaning, example) async {
     print("INSIDE POST");
 
     var request = http.MultipartRequest('POST', Uri.parse(url));
     request.fields['word'] = word;
     request.fields['meaning'] = meaning;
+    request.fields['example'] = example;
     DateTime selectedDate = DateTime.now();
     String dateSelect = DateFormat('yyyy-MM-dd').format(selectedDate);
     request.fields['date'] = dateSelect;
@@ -51,7 +77,6 @@ class AddNewWordState extends State<AddNewWord> {
 
   Widget formUI() {
     return new Column(
-      
       children: <Widget>[
         new TextFormField(
           decoration: const InputDecoration(labelText: 'Word'),
@@ -79,6 +104,19 @@ class AddNewWordState extends State<AddNewWord> {
             _meaning = val;
           },
         ),
+        new TextFormField(
+          decoration: const InputDecoration(labelText: 'Example'),
+          keyboardType: TextInputType.text,
+          validator: (String arg) {
+            if (arg.length < 3)
+              return 'meaning must be more than 2 charater';
+            else
+              return null;
+          },
+          onSaved: (String val) {
+            _example = val;
+          },
+        ),
         new SizedBox(
           height: 10.0,
         ),
@@ -94,9 +132,9 @@ class AddNewWordState extends State<AddNewWord> {
     if (_formKey.currentState.validate()) {
       _formKey.currentState.save();
     } else {}
-    sendWord(_word, _meaning);
+    sendWord(_word, _meaning, _example);
     _formKey.currentState.reset();
-
+    fetchJSON();
     setState(() {
       sent = true;
     });
@@ -104,18 +142,55 @@ class AddNewWordState extends State<AddNewWord> {
 
   @override
   Widget build(BuildContext context) {
-    // Build a Form widget using the _formKey created above.
-    DateTime selectedDate = DateTime.now();
-    String dateSelect = DateFormat('yyyy-MM-dd').format(selectedDate);
-
-    return Container(
-      padding: EdgeInsets.all(10),
-      child: new Form(
-        key: _formKey,
-        autovalidate: _autoValidate,
-        child: formUI(),
-        
+    wordsListDated = [];
+    if (fetched) {
+      for (int i = 0; i < wordsList.length; i++) {
+        if (wordsList[i]['example'] == "") {
+          print("same");
+          wordsListDated.add(wordsList[i]);
+        }
+      }
+    }
+    return Column(children: <Widget>[
+      Container(
+        padding: EdgeInsets.all(10),
+        child: new Form(
+          key: _formKey,
+          autovalidate: _autoValidate,
+          child: formUI(),
+        ),
       ),
-    );
+      Container(
+        height: 380,
+        child: wordsListDated.length != 0
+            ? ListView.builder(
+                itemCount: wordsList.length,
+                itemBuilder: (BuildContext ctxt, int index) {
+                  return Container(
+                    padding: EdgeInsets.all(15),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: <Widget>[
+                        Text(wordsListDated[index]['word']),
+                        Text(" : "),
+                        Column(
+                          children: <Widget>[
+                            Text(
+                              wordsListDated[index]['meaning'],
+                            ),
+                          ],
+                        ),
+                      ],
+                    ),
+                  );
+                },
+              )
+            : Container(
+                child: Text(
+                  "Fetching Words!",
+                ),
+              ),
+      ),
+    ]);
   }
 }
