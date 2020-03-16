@@ -51,6 +51,7 @@ class addWord(APIView):
                 file.close()
             else:
                 print(created)
+            wordsrow.dateEntered = wordsrow.dateEntered
             wordsRow.save()
             wordsList = WordDetail.objects.all()[:]
             wordsJson = wordsList.values()[:]
