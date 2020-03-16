@@ -46,13 +46,13 @@ class addWord(APIView):
                                         dateEntered=date)
             # print (created)
             # print("example saved")
-            if created:
+#            if created:
                 # wordsRow.dateEntered = date
-                file = open("/home/pmj9911/WordifyMe/media/wordsList.txt","a+")
-                file.write(word+" - "+meaning+"\n")
-                file.close()
-            else:
-                print(created)
+#                file = open("\\home\\pmj9911\\WordifyMe\\media\\wordsList.txt","a+")
+#                 file.write(word+" - "+meaning+"\n")
+#                file.close()
+ #           else:
+  #              print(created)
             # wordsrow.dateEntered = wordsrow.dateEntered
             # wordsRow.save()
             wordsList = WordDetail.objects.all()[:]
