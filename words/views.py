@@ -39,16 +39,18 @@ class addWord(APIView):
             meaning = request.POST.get('meaning')
             date = request.POST.get('date')
             wordsRow , created = WordDetail.objects.get_or_create(
-                                        word=word)
+                                        word=word,
+                                        meaning=meaning)
             wordsRow.example = request.POST.get('example')
-            wordsRow.save()
             print("example saved")
             if created:
+                wordsRow.dateEntered = date
                 file = open("../media/wordsList.txt","a+")
                 file.write(word+" - "+meaning+"\n")
                 file.close()
             else:
                 print(created)
+            wordsRow.save()
             wordsList = WordDetail.objects.all()[:]
             wordsJson = wordsList.values()[:]
             return Response(wordsJson,content_type='application/json')
