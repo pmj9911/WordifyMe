@@ -42,6 +42,7 @@ class addWord(APIView):
                                         word=word,
                                         meaning=meaning)
             wordsRow.example = request.POST.get('example')
+            print ("created")
             print("example saved")
             if created:
                 wordsRow.dateEntered = date
