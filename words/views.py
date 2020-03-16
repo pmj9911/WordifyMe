@@ -38,12 +38,12 @@ class addWord(APIView):
             word = request.POST.get('word')
             meaning = request.POST.get('meaning')
             date = request.POST.get('date')
+            example = request.POST.get('example')
             wordsRow , created = WordDetail.objects.get_or_create(
                                         word=word,
                                         meaning=meaning,
                                         example=example,
                                         dateEntered=date)
-            # wordsRow.example = request.POST.get('example')
             # print (created)
             # print("example saved")
             if created:
