@@ -48,7 +48,7 @@ class addWord(APIView):
             # print("example saved")
             if created:
                 # wordsRow.dateEntered = date
-                file = open("../media/wordsList.txt","a+")
+                file = open("/home/pmj9911/WordifyMe/media/wordsList.txt","a+")
                 file.write(word+" - "+meaning+"\n")
                 file.close()
             else:
