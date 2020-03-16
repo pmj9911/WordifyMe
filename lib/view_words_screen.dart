@@ -41,6 +41,11 @@ class _ViewWordsState extends State<ViewWords> {
   @override
   void initState() {
     fetchJSON();
+    selectedDate = DateTime.now();
+    dateSelect = DateFormat('yyyy-MM-dd').format(selectedDate);
+    setState(() {
+      isSelectedDate = true;
+    });
   }
 
   Future<Null> _selectDate(BuildContext context) async {
@@ -65,7 +70,7 @@ class _ViewWordsState extends State<ViewWords> {
   @override
   Widget build(BuildContext context) {
     wordsListDated = [];
-    if (isSelectedDate) {
+    if (isSelectedDate && wordsList != null) {
       for (int i = 0; i < wordsList.length; i++) {
         print("${wordsList[i]['dateEntered']} \t $dateSelect");
         if (wordsList[i]['dateEntered'] == dateSelect) {
@@ -83,10 +88,35 @@ class _ViewWordsState extends State<ViewWords> {
           onPressed: () => _selectDate(context),
           child: Text('Select date'),
         ),
-        WordContainer(
-            isSelectedDate: isSelectedDate,
-            wordsListDated: wordsListDated,
-            newlyAddedWord: newlyAddedWord),
+        wordsList != null
+            ? WordContainer(
+                isSelectedDate: isSelectedDate,
+                wordsListDated: wordsListDated,
+                newlyAddedWord: newlyAddedWord,
+              )
+            : Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: <Widget>[
+                  Center(
+                    child: CircularProgressIndicator(),
+                  ),
+                ],
+              ),
+        Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Container(
+              child: Text(
+                dateSelect,
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        ),
       ],
     );
   }
@@ -107,38 +137,25 @@ class WordContainer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 580,
-      child: isSelectedDate
-          ? ListView.builder(
-              itemCount: wordsListDated.length,
-              itemBuilder: (BuildContext ctxt, int index) {
-                return Container(
-                  padding: EdgeInsets.all(15),
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: <Widget>[
-                      Text(wordsListDated[index]['word']),
-                      Text(" : "),
-                      Column(
-                        children: <Widget>[
-                          Text(wordsListDated[index]['meaning'])
-                        ],
-                      ),
-                    ],
+        height: 570,
+        child: ListView.builder(
+          itemCount: wordsListDated.length,
+          itemBuilder: (BuildContext ctxt, int index) {
+            return Container(
+              padding: EdgeInsets.all(15),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: <Widget>[
+                  Text(wordsListDated[index]['word']),
+                  Text(" : "),
+                  Column(
+                    children: <Widget>[Text(wordsListDated[index]['meaning'])],
                   ),
-                );
-              },
-            )
-          : Row(
-              crossAxisAlignment: CrossAxisAlignment.center,
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
-              children: <Widget>[
-                Center(
-                  child: CircularProgressIndicator(),
-                ),
-              ],
-            ),
-    );
+                ],
+              ),
+            );
+          },
+        ));
   }
 }
 

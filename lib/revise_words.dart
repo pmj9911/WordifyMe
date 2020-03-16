@@ -170,6 +170,7 @@ class _ReviseWordsState extends State<ReviseWords> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SingleChildScrollView(
+        
         child: gotWords
             ? Column(
                 children: <Widget>[

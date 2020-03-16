@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      resizeToAvoidBottomInset: false,
+      // resizeToAvoidBottomInset: false,
       appBar: AppBar(
         title: Center(
           child: Text(_pages[_selectedPageIndex]['title']),
