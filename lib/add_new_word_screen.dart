@@ -151,46 +151,17 @@ class AddNewWordState extends State<AddNewWord> {
         }
       }
     }
-    return Column(children: <Widget>[
-      Container(
-        padding: EdgeInsets.all(10),
-        child: new Form(
-          key: _formKey,
-          autovalidate: _autoValidate,
-          child: formUI(),
+    return Column(
+      children: <Widget>[
+        Container(
+          padding: EdgeInsets.all(10),
+          child: new Form(
+            key: _formKey,
+            autovalidate: _autoValidate,
+            child: formUI(),
+          ),
         ),
-      ),
-      Container(
-        height: 380,
-        child: wordsListDated.length != 0
-            ? ListView.builder(
-                itemCount: wordsList.length,
-                itemBuilder: (BuildContext ctxt, int index) {
-                  return Container(
-                    padding: EdgeInsets.all(15),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: <Widget>[
-                        Text(wordsListDated[index]['word']),
-                        Text(" : "),
-                        Column(
-                          children: <Widget>[
-                            Text(
-                              wordsListDated[index]['meaning'],
-                            ),
-                          ],
-                        ),
-                      ],
-                    ),
-                  );
-                },
-              )
-            : Container(
-                child: Text(
-                  "Fetching Words!",
-                ),
-              ),
-      ),
-    ]);
+      ],
+    );
   }
 }
