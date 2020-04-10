@@ -8,6 +8,8 @@ from .models import WordDetail
 from django.http import HttpResponse
 import random
 import datetime
+from django.conf import settings
+from django.core.files import File
 # Create your views here.
 class addWord(APIView):
     parser_classes = (MultiPartParser,)
@@ -15,7 +17,7 @@ class addWord(APIView):
     def get(self,request):
         # todaydate = datetime.date.today()
         # print(todaydate)
-        # file = open("/home/parthjardosh/GRE/WordifyMe/media/wordsList.txt","r")
+        # file = open("../media/wordsList.txt","r")
         # lines = file.readlines()
         # for i in range(len(lines)):
         #     temp = lines[i].split(' - ')
@@ -28,10 +30,15 @@ class addWord(APIView):
         #                                    dateEntered=todaydate)
         #     print(created)
         # file.close()
-        # wordsList = WordDetail.objects.all()[:]
-        # wordsJson = wordsList.values()[:]
-        # return Response(wordsJson,content_type='application/json')
-        return HttpResponse(status=403)
+        # with open(settings.MEDIA_ROOT+"/wordsList.txt","a+") as f:
+        #     myfile = File(f)
+        #     wordsList = WordDetail.objects.all()
+        #     for i in range(len(wordsList)):
+        #         myfile.write(wordsList[i].word+" - "+wordsList[i].meaning+" - "+wordsList[i].meaning + "\n")
+        #     myfile.close()
+        #     f.close()            
+        # return Response({'wordsJson':"la"},content_type='application/json')
+        return Response({'status':"get not allowed"},status=403)
 
     def post(self,request):
         try:
@@ -44,17 +51,18 @@ class addWord(APIView):
                                         meaning=meaning,
                                         example=example,
                                         dateEntered=date)
-            # print (created)
-            # print("example saved")
-#            if created:
-                # wordsRow.dateEntered = date
-#                file = open("\\home\\pmj9911\\WordifyMe\\media\\wordsList.txt","a+")
-#                 file.write(word+" - "+meaning+"\n")
-#                file.close()
- #           else:
-  #              print(created)
-            # wordsrow.dateEntered = wordsrow.dateEntered
-            # wordsRow.save()
+            print (created)
+            print("example saved")
+            if created:
+                with open(settings.MEDIA_ROOT+"/wordsList.txt","a+") as f:
+                    myfile = File(f)
+                    myfile.write(word+" - "+meaning+" - "+meaning + "\n")
+                    print(myfile.closed)
+                    myfile.close()
+                    print(myfile.closed)
+                    f.close()
+            else:
+               print(created)
             wordsList = WordDetail.objects.all()[:]
             wordsJson = wordsList.values()[:]
             return Response(wordsJson,content_type='application/json')
@@ -79,8 +87,13 @@ class viewWords(APIView):
             return HttpResponse(status=403)
     def post(self,request):
         try:
-            date = request.POST.get('date')
-            wordsList = WordDetail.objects.filter(dateEntered=date).order_by("?")[:]
+            dateStart = request.POST.get('dateStart')
+            dateEnd = request.POST.get('dateEnd')
+            if dateEnd is not None:
+                print("range of date")
+                wordsList = WordDetail.objects.filter(dateEntered__range=[dateStart,dateEnd]).order_by("?")[:]
+            else:
+                wordsList = WordDetail.objects.filter(dateEntered=dateStart).order_by("?")[:]
             # wordsList = WordDetail.objects.all()
             wordsJson = wordsList.values()[:]
             print(wordsJson)

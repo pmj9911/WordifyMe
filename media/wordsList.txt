@@ -1,71 +1,458 @@
-paean - song of praise
-table - to remove from consideration
-paliate - mitigate
-facetious - happy
-pandemic - widespread
-ubiquitous - existing everywhere
-panegyric - formal expression of praise
-taciturn - not talkative
-paradigm - model example
-fallacy - incorrect notion
-paradox - contradictory
-quaff - to drink deeply
-paragon - regarded as a model 
-talisman - something which brings good luck
-pariah - outcast
-fallow - inactive
-parody - humorous imitation
-umbrage - resentment
-parry - ward off
-tamp - stamp down by blows
-parsimonious - miserly
-fanatical - zealous
-partisan - biased
-paucity - scarcity
-fatuous - silly
-peccadilo - slight offense
-fawn - to flatter
-pedagogy - profession of teaching
-tautology - repetition
-pedantic - unimaginative
-taudry - cheap
-pedestrian - unremarkable
-quail - lose courage
-penchant - liking
-fell - barren hill
-penurious - thrifty
-undulate - fluctuate
-peremptory - haughty
-peripatetic - traveling
-tendentious - partisan
-perfunctory - cursory
-tenacity - stubbornness to do something
-perfudy - treachory
-felicituous - well chosen
-perennial - regular
-feckless - reckless
-pernicious - extremely harmful
-personable - attractive
-terse - concise
-timorous - fearful
-fetter - restrain
-filibuster - intentional obstruction
-untenable - inviable
-qualify - restrict
-unfeigned - genuine
-fetid - stinky
-fervent - zealous
-tenuous - weak
-tender - offer formally
-pied - colored in patches
-picaresque - adventurous
-phlegmatic - calm
-philistine - individual guided by material rather than values
-philantrophic - humanitarian
-petulant - impatient
-petrous - rocky
-pervade - permeate throughout
-peruse - examine with great care
-perspicacious - perspective
-stray - wander
-trivial - inconsequential
+paean - song of praise - song of praise
+table - to remove from consideration - to remove from consideration
+paliate - mitigate - mitigate
+facetious - happy - happy
+pandemic - widespread - widespread
+ubiquitous - existing everywhere - existing everywhere
+panegyric - formal expression of praise - formal expression of praise
+taciturn - not talkative - not talkative
+paradigm - model example - model example
+fallacy - incorrect notion - incorrect notion
+paradox - contradictory - contradictory
+quaff - to drink deeply - to drink deeply
+paragon - regarded as a model - regarded as a model
+talisman - something which brings good luck - something which brings good luck
+pariah - outcast - outcast
+fallow - inactive - inactive
+parody - humorous imitation - humorous imitation
+umbrage - resentment - resentment
+parry - ward off - ward off
+tamp - stamp down by blows - stamp down by blows
+parsimonious - miserly - miserly
+fanatical - zealous - zealous
+partisan - biased - biased
+paucity - scarcity - scarcity
+fatuous - silly - silly
+peccadilo - slight offense - slight offense
+fawn - to flatter - to flatter
+pedagogy - profession of teaching - profession of teaching
+tautology - repetition - repetition
+pedantic - unimaginative - unimaginative
+taudry - cheap - cheap
+pedestrian - unremarkable - unremarkable
+quail - lose courage - lose courage
+penchant - liking - liking
+fell - barren hill - barren hill
+penurious - thrifty - thrifty
+undulate - fluctuate - fluctuate
+peremptory - haughty - haughty
+peripatetic - traveling - traveling
+tendentious - partisan - partisan
+perfunctory - cursory - cursory
+tenacity - stubbornness to do something - stubbornness to do something
+perfudy - treachory - treachory
+felicituous - well chosen - well chosen
+perennial - regular - regular
+feckless - reckless - reckless
+pernicious - extremely harmful - extremely harmful
+personable - attractive - attractive
+trivial  - inconsequential - inconsequential
+stray - wander - wander
+perspicacious - perspective - perspective
+peruse - examine with great care - examine with great care
+pervade - permeate throughout - permeate throughout
+petrous - rocky - rocky
+petulant - impatient  - impatient 
+philantrophic  - humanitarian - humanitarian
+philistine - individual guided by material rather than values - individual guided by material rather than values
+phlegmatic  - calm - calm
+picaresque  - adventurous - adventurous
+pied - colored in patches - colored in patches
+tender - offer formally - offer formally
+tenuous - weak - weak
+fervent - zealous - zealous
+fetid - stinky - stinky
+unfeigned - genuine - genuine
+qualify - restrict - restrict
+untenable - inviable - inviable
+filibuster - intentional obstruction - intentional obstruction
+fetter - restrain - restrain
+timorous - fearful - fearful
+terse - concise - concise
+adulation - intense admiration - intense admiration
+adulterate - reduce purity - reduce purity
+adumbrate - suggest - suggest
+advocate - support - support
+aesthetic - appreciation of art - appreciation of art
+aggrandize - appear greater - appear greater
+alacrity - eager willingness - eager willingness
+alchemy - magical transformation - magical transformation
+alloy - dilute by mixing - dilute by mixing
+amalgate - fuse - fuse
+ambiguity - uncertainty - uncertainty
+ambivalence - having opposite ideas - having opposite ideas
+ameliorate - make tolerable - make tolerable
+germane - appropriate to matter - appropriate to matter
+castigation - extreme criticism - extreme criticism
+venerate - revere - revere
+catalyst - accelerate change - accelerate change
+causality - relationship between casue and effect - relationship between casue and effect
+caustic - acidic - acidic
+censure - castigate - castigate
+chaos - utter confusion - utter confusion
+gauche - crude - crude
+venal - mercenary - mercenary
+chary - wary - wary
+chasten - to chastise - to chastise
+chauvinist - extreme partisan - extreme partisan
+garrulous - anti taciturn - anti taciturn
+veracity - honesty - honesty
+vaccilate - waver indecisvely - waver indecisvely
+jejune - immature - immature
+cacophony - harsh sound - harsh sound
+abate - lessen in degree - lessen in degree
+cadge - beg - beg
+aberrant - deviating from usual - deviating from usual
+gainsay - deny - deny
+abjure - renounce - renounce
+cajole - coax - coax
+abgrogate - put down - put down
+gambol - skip playfully - skip playfully
+abscission - act of removal - act of removal
+caluminate - false accusation - false accusation
+abcond - steal and hide - steal and hide
+jocose - humrorus - humrorus
+abstain - refrain - refrain
+canon - set of laws - set of laws
+accolade - award - award
+variegated - multi colored - multi colored
+accretion - growth - growth
+capricious - erratic - erratic
+acerbic - sour - sour
+jibe - agree - agree
+acumen - quick insight - quick insight
+cardinal - primary - primary
+admonish - express disapproval - express disapproval
+vaunt - brag - brag
+adroit - adept - adept
+caret - isnertion marks used by proof-readers - isnertion marks used by proof-readers
+garner - store - store
+carnality - relating to flesh - relating to flesh
+amenable - agreeable - agreeable
+anachronism - not in chronology - not in chronology
+anathema - cursed - cursed
+anodyne - soothint - soothint
+anomaly - abnormality - abnormality
+antagonize - to irritate - to irritate
+antipathy - dislike - dislike
+antithetical - diametrically opposite - diametrically opposite
+apathy - lack of interest - lack of interest
+apocryphal - spurious - spurious
+apogee - zenith - zenith
+apostate - betrayer of a cause - betrayer of a cause
+apotheosis - perfect example - perfect example
+churlish - vulgar - vulgar
+chic - stylish - stylish
+glib - superficial - superficial
+chicanery - trickery - trickery
+versimilitude - appearing true - appearing true
+chimera - illusion - illusion
+gosammer - delicate - delicate
+choleric - tending towards anger - tending towards anger
+coalesce - fuse - fuse
+veritable - genuine - genuine
+grandiloquence - pompous expression - pompous expression
+coda - concluding section - concluding section
+vexation - arrogance - arrogance
+cogent - convincing - convincing
+vigilant - alert - alert
+color - change - change
+sagacious - wise - wise
+salacious - causing sexual desire - causing sexual desire
+salient - prominent - prominent
+salubrious - promoting health - promoting health
+salutary - remedial - remedial
+sanctimony - self righteousness - self righteousness
+sanction - penalty - penalty
+sanguine - confident - confident
+sap - weaken - weaken
+satiate - overindulge - overindulge
+satire - criticises human vice via humor  - criticises human vice via humor 
+saturnine - gloomy - gloomy
+scury - despicable - despicable
+daunt - intimidate - intimidate
+damp - reduce intensity - reduce intensity
+hackneyed - rendered common by frequent use - rendered common by frequent use
+dearth - lack - lack
+nadir - perigee - perigee
+debacle - fiasco - fiasco
+halcyon - calm - calm
+decorum - appropriate conduct - appropriate conduct
+nascent - coming into being - coming into being
+deleterious - injurious - injurious
+hallow - to make holy  - to make holy 
+demur - oppose - oppose
+natty - neat and tidy - neat and tidy
+denigrate - belittle - belittle
+waft - light breeze - light breeze
+sedulous - persistent - persistent
+seine - large net - large net
+sere - arid - arid
+seminal - origin - origin
+shar - small peices - small peices
+simper - smirk - smirk
+sinecure  - position having less work and more income - position having less work and more income
+singular - unusual - unusual
+sinuous - winding - winding
+slake - to satisfy - to satisfy
+sodden - soaked - soaked
+solder - fuse - fuse
+solicitous - concerned - concerned
+Denouement - outcome - outcome
+harangue - to deliver a loud speech - to deliver a loud speech
+deprecate - denigrate - denigrate
+depredate - plunder - plunder
+nebulous - cloudy, vague - cloudy, vague
+harrow - to torment - to torment
+derision - scorn - scorn
+welter - to be in turmoil - to be in turmoil
+derivative - unoriginal - unoriginal
+hedonism - devoting to pleasurable pursuits - devoting to pleasurable pursuits
+neologism - new world - new world
+dessicate - to dry - to dry
+desuetude - disuse - disuse
+neophyte - novice/tyro - novice/tyro
+hegemony - consistent dominace of one group - consistent dominace of one group
+detraction - verbal attack - verbal attack
+solvent - able to meet financial obligations - able to meet financial obligations
+wend - walk - walk
+sophistry - fallacious resoning - fallacious resoning
+diaphanous - transparent - transparent
+sopohmoric - exhibiting immaturity - exhibiting immaturity
+heretical - unorthodox - unorthodox
+soporific - exhibiting drowsiness - exhibiting drowsiness
+diatribe - harsh denunciation - harsh denunciation
+sordid - foul - foul
+nexus - connection - connection
+sparse - thin - thin
+didactic - intended to teach - intended to teach
+specious - misleadingly attractive - misleadingly attractive
+hermetic - airtight - airtight
+spendthrift - spending money wastefully - spending money wastefully
+die - mould - mould
+splenetic - bad tempered - bad tempered
+nice - done with skill - done with skill
+sporadic - scattered - scattered
+diffident - shy - shy
+spurious - false - false
+whet - sharpen - sharpen
+squalid - sordid, improper - sordid, improper
+digress - to stray away from point - to stray away from point
+squander - to waste - to waste
+whimsical - imaginative - imaginative
+staunch - stop the flow of a fluid - stop the flow of a fluid
+dilate - wide - wide
+iconoclast - attacks traditional conventions - attacks traditional conventions
+kinetic - lively - lively
+labile - unstable - unstable
+idolatrous - excessive devotion to something - excessive devotion to something
+obdurate - inflexible - inflexible
+idyll - light hearted experience - light hearted experience
+rail - to complain bitterly - to complain bitterly
+imperious - commanding - commanding
+baleful - sinister - sinister
+imperturbable - marked by extreme calm - marked by extreme calm
+ramify - branch out - branch out
+impetuous - impulsive - impulsive
+lachrymose - sorrow - sorrow
+implacable - not changing - not changing
+obeisance - gesture expressing respect - gesture expressing respect
+importune - beg continuously - beg continuously
+rancorous - charachterized by bitter sentiment - charachterized by bitter sentiment
+impudent - impertinent - impertinent
+bane - cause of injury - cause of injury
+ignominous - shameful - shameful
+rapacious - greedy - greedy
+imbroglio - embarrasing situation - embarrasing situation
+laconic - terse - terse
+imminent - about to happen - about to happen
+obfuscate - make obscure - make obscure
+immutable - implacable - implacable
+rarefy - less dense - less dense
+impassive - revealing no emotions - revealing no emotions
+obsequious - subservient - subservient
+impecunious - lacking funds - lacking funds
+beatify - to bless - to bless
+rebus - riddle - riddle
+zealous - fervent - fervent
+bedizen - to adorn in a cheap manner - to adorn in a cheap manner
+impugn - censure - censure
+impunity - immunity from punishment  - immunity from punishment 
+impute - attribute to a cause - attribute to a cause
+inalienable - cannot be transferred - cannot be transferred
+inchoate - nascent - nascent
+incipient  - coming into being - coming into being
+indefatigable - tireless - tireless
+indifferent - apathetic - apathetic
+indolent - lazy - lazy
+ineluctable - certain - certain
+inert - unmoving - unmoving
+ingenuous - candid - candid
+recalcitrant - difficult to manage - difficult to manage
+lassitude - weariness - weariness
+belie - misinterpret - misinterpret
+obstinate - stubborn - stubborn
+recant - to retract - to retract
+recapitulate - to summarize - to summarize
+laud - praise highly - praise highly
+recondite - hidden - hidden
+obstreperous - noisy - noisy
+lavish - extravagant - extravagant
+reconnoiter - make a preliminary inspection of  - make a preliminary inspection of 
+bellicose - pugnacious - pugnacious
+obtain - prevail - prevail
+obtuse - not clear or opp to acumen  - not clear or opp to acumen 
+inherent - in one's nature - in one's nature
+inimical - pernicious - pernicious
+inimitable - one of a kind  - one of a kind 
+iniquity - gross injustice - gross injustice
+innervate - energize - energize
+innocuous - harmless - harmless
+inscrutable - mysterious - mysterious
+insensible - numb - numb
+insipid - without taste  - without taste 
+insouciant - unconcerned - unconcerned
+insular - narrow minded, parochial - narrow minded, parochial
+interdict - prohibit - prohibit
+intimate - to insinuate - to insinuate
+intractable - not easily managed - not easily managed
+redolent - fragrant - fragrant
+occlude - obstruct - obstruct
+bent - inclination - inclination
+obviate - to anticipate and make unnecessary - to anticipate and make unnecessary
+letharhic - sluggish - sluggish
+innervate - energize - energize
+redoubtable - awe inspiring - awe inspiring
+blandish - to coax with flattery - to coax with flattery
+refulgent - radiant - radiant
+libertine - someone unrestrained by morality - someone unrestrained by morality
+refute - disprove - disprove
+blithe - carefree - carefree
+occult - hidden - hidden
+limn - to outline in detail - to outline in detail
+regale - feast - feast
+boisterous - loud - loud
+odious - hateful - hateful
+relegate - forcibly assign to a lower place  - forcibly assign to a lower place 
+untoward - troublesome - troublesome
+static - not moving - not moving
+ebullience - quality of lively expression of thought  - quality of lively expression of thought 
+stoic - steadfast - steadfast
+eccentric - unconventional  - unconventional 
+gregarious - sociable - sociable
+eclectic - heterogenous mixture - heterogenous mixture
+steep - completely sodden - completely sodden
+edifying - enlightening - enlightening
+upbraid - scold - scold
+efficacy - ability to produce a result - ability to produce a result
+stentorian - grandiloquence - grandiloquence
+effrontery - extreme boldness - extreme boldness
+stint - fetter - fetter
+effusive - gushing - gushing
+grouse - to complain - to complain
+egress - exit - exit
+urbane - sophisticated - sophisticated
+elegy - mournful poem - mournful poem
+stolid - phlegmatic - phlegmatic
+eloquent - articulate - articulate
+struts - structural support used to brace - structural support used to brace
+emmolient - mollifying - mollifying
+guile - trickery - trickery
+empirical - based on observation  - based on observation 
+striated  - striped - striped
+encomium - glowing praise - glowing praise
+usury - exorbitant rate of interest - exorbitant rate of interest
+endmeic - characteristic of a location - characteristic of a location
+stupefy - to stun - to stun
+enervate - weaken - weaken
+guye - rope attached to something as a brace - rope attached to something as a brace
+stymie - block - block
+engender - to cause - to cause
+heterodox - heretical - heretical
+enigmatic - mysterious - mysterious
+subpoena - a court ordering, requiring appearance  - a court ordering, requiring appearance 
+ennui - dissatisfaction and restlessness resulting from boredom  - dissatisfaction and restlessness resulting from boredom 
+hirsute - hairy  - hairy 
+enormity - evilness - evilness
+subtle - not obvious  - not obvious 
+ephemeral - fleeting - fleeting
+homily - sermon - sermon
+epicure - sybarite - sybarite
+succint - terse - terse
+episodic - loosely connected - loosely connected
+homogenous - same throughout - same throughout
+epithet - disparaging word  - disparaging word 
+succor - assistance - assistance
+epitome - quintessence - quintessence
+hubris - pride - pride
+equanimity - composure - composure
+sundry - various - various
+equable - level headed - level headed
+equivocate - using ambiguous language with a deceptive intent - using ambiguous language with a deceptive intent
+supercilious - peremptory - peremptory
+errant - peripatetic - peripatetic
+hyperbole - exaggerated statement - exaggerated statement
+erratic - sporadic - sporadic
+superfluous - unnecessary - unnecessary
+erudite - scholarly - scholarly
+supine - fallow - fallow
+magnanimity - generously noble - generously noble
+supplant - to take place of - to take place of
+malevolent - showing ill will - showing ill will
+intransigent - refusing to compromise - refusing to compromise
+maligner - to fake illness to avoid work - to fake illness to avoid work
+suppliant - beseeching - beseeching
+malleable - changed - changed
+tirade - harsh denunciation - harsh denunciation
+martial - associated to war - associated to war
+intrepid - steadfast - steadfast
+martinet - rigid disciplinarian - rigid disciplinarian
+supplicant - beggar - beggar
+maunder - wander and talk aimlessly - wander and talk aimlessly
+toady - sychophant - sychophant
+maverick - an independent individual who does not go along with a group - an independent individual who does not go along with a group
+inundate - to overwhelm - to overwhelm
+melancholy - tending towards sadness - tending towards sadness
+inured - becoming used to without liking it - becoming used to without liking it
+mellifluous - sweetly flowing - sweetly flowing
+surfeit - to feed in excess - to feed in excess
+mendacity - dishonesty - dishonesty
+torpid - sluggish - sluggish
+sychopant - fawning person - fawning person
+mendicant - beggar - beggar
+mercurial - characterized by rapid and unpredicatble change - characterized by rapid and unpredicatble change
+inveigh - denounce - denounce
+meretricious - tawdry - tawdry
+synthesis - combining parts to  make whole - combining parts to  make whole
+meticulous - attention to detail - attention to detail
+inveigle - obtain by deception or flattery - obtain by deception or flattery
+pillory - to punish - to punish
+torque - a force that causes rotation - a force that causes rotation
+pine - to yearn intensly - to yearn intensly
+limpid - diaphanous - diaphanous
+pious - extreme veneration - extreme veneration
+torrid - scorching - scorching
+piquant - spicy - spicy
+list - to tilt - to tilt
+pique - resentment - resentment
+tortous - sinuous - sinuous
+pirate - to use illegally - to use illegally
+loquacious - extremely talkative - extremely talkative
+pith - central part - central part
+tout - publicly praised - publicly praised
+placate - mollify - mollify
+tractable - docile - docile
+plaintive - mournful - mournful
+luicd - clear - clear
+plangent - resounding - resounding
+transient - fleeting - fleeting
+plastic - moldable - moldable
+lumber - to move heavily - to move heavily
+platitude - glib remark - glib remark
+travesty - mockery - mockery
+plethora - surplus - surplus
+luminous - clear - clear
+plunk - courage - courage
+trenchant - keen - keen
+plumb - to measure for depth - to measure for depth
+truculent - fierce - fierce
