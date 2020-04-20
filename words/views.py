@@ -30,15 +30,16 @@ class addWord(APIView):
         #                                    dateEntered=todaydate)
         #     print(created)
         # file.close()
-        # with open(settings.MEDIA_ROOT+"/wordsList.txt","a+") as f:
-        #     myfile = File(f)
-        #     wordsList = WordDetail.objects.all()
-        #     for i in range(len(wordsList)):
-        #         myfile.write(wordsList[i].word+" - "+wordsList[i].meaning+" - "+wordsList[i].meaning + "\n")
-        #     myfile.close()
-        #     f.close()            
-        # return Response({'wordsJson':"la"},content_type='application/json')
-        return Response({'status':"get not allowed"},status=403)
+        # ---
+        with open(settings.MEDIA_ROOT+"/wordsList.txt","w+") as f:
+            myfile = File(f)
+            wordsList = WordDetail.objects.all()
+            for i in range(len(wordsList)):
+                myfile.write(wordsList[i].word+" - "+wordsList[i].meaning+" - "+str(wordsList[i].example) + "\n")
+            myfile.close()
+            f.close()            
+        return Response({'wordsJson':"la"},content_type='application/json')
+        # return Response({'status':"get not allowed"},status=403)
 
     def post(self,request):
         try:
@@ -56,7 +57,7 @@ class addWord(APIView):
             if created:
                 with open(settings.MEDIA_ROOT+"/wordsList.txt","a+") as f:
                     myfile = File(f)
-                    myfile.write(word+" - "+meaning+" - "+meaning + "\n")
+                    myfile.write(word+" - "+meaning+" - "+example + "\n")
                     print(myfile.closed)
                     myfile.close()
                     print(myfile.closed)
