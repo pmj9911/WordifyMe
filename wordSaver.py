@@ -47,6 +47,9 @@ def Seperate():
 	file3 = open("example.txt","w+")
 	file.seek(0)
 	lines = file.readlines()
+	option = int(input("Shuffle? \n1. Yes\n2.No\n:"))
+	if option == 1:
+		rd.shuffle(lines)
 	print(type(lines))
 	for i in range(len(lines)):
 		temp = lines[i].split(' - ')
