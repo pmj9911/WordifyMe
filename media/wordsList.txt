@@ -1,482 +1,673 @@
-paean - song of praise - song of praise
-table - to remove from consideration - to remove from consideration
-paliate - mitigate - mitigate
-facetious - happy - happy
-pandemic - widespread - widespread
-ubiquitous - existing everywhere - existing everywhere
-panegyric - formal expression of praise - formal expression of praise
-taciturn - not talkative - not talkative
-paradigm - model example - model example
-fallacy - incorrect notion - incorrect notion
-paradox - contradictory - contradictory
-quaff - to drink deeply - to drink deeply
-paragon - regarded as a model - regarded as a model
-talisman - something which brings good luck - something which brings good luck
-pariah - outcast - outcast
-fallow - inactive - inactive
-parody - humorous imitation - humorous imitation
-umbrage - resentment - resentment
-parry - ward off - ward off
-tamp - stamp down by blows - stamp down by blows
-parsimonious - miserly - miserly
-fanatical - zealous - zealous
-partisan - biased - biased
-paucity - scarcity - scarcity
-fatuous - silly - silly
-peccadilo - slight offense - slight offense
-fawn - to flatter - to flatter
-pedagogy - profession of teaching - profession of teaching
-tautology - repetition - repetition
-pedantic - unimaginative - unimaginative
-taudry - cheap - cheap
-pedestrian - unremarkable - unremarkable
-quail - lose courage - lose courage
-penchant - liking - liking
-fell - barren hill - barren hill
-penurious - thrifty - thrifty
-undulate - fluctuate - fluctuate
-peremptory - haughty - haughty
-peripatetic - traveling - traveling
-tendentious - partisan - partisan
-perfunctory - cursory - cursory
-tenacity - stubbornness to do something - stubbornness to do something
-perfudy - treachory - treachory
-felicituous - well chosen - well chosen
-perennial - regular - regular
-feckless - reckless - reckless
-pernicious - extremely harmful - extremely harmful
-personable - attractive - attractive
-trivial  - inconsequential - inconsequential
-stray - wander - wander
-perspicacious - perspective - perspective
-peruse - examine with great care - examine with great care
-pervade - permeate throughout - permeate throughout
-petrous - rocky - rocky
-petulant - impatient  - impatient 
-philantrophic  - humanitarian - humanitarian
-philistine - individual guided by material rather than values - individual guided by material rather than values
-phlegmatic  - calm - calm
-picaresque  - adventurous - adventurous
-pied - colored in patches - colored in patches
-tender - offer formally - offer formally
-tenuous - weak - weak
-fervent - zealous - zealous
-fetid - stinky - stinky
-unfeigned - genuine - genuine
-qualify - restrict - restrict
-untenable - inviable - inviable
-filibuster - intentional obstruction - intentional obstruction
-fetter - restrain - restrain
-timorous - fearful - fearful
-terse - concise - concise
-adulation - intense admiration - intense admiration
-adulterate - reduce purity - reduce purity
-adumbrate - suggest - suggest
-advocate - support - support
-aesthetic - appreciation of art - appreciation of art
-aggrandize - appear greater - appear greater
-alacrity - eager willingness - eager willingness
-alchemy - magical transformation - magical transformation
-alloy - dilute by mixing - dilute by mixing
-amalgate - fuse - fuse
-ambiguity - uncertainty - uncertainty
-ambivalence - having opposite ideas - having opposite ideas
-ameliorate - make tolerable - make tolerable
-germane - appropriate to matter - appropriate to matter
-castigation - extreme criticism - extreme criticism
-venerate - revere - revere
-catalyst - accelerate change - accelerate change
-causality - relationship between casue and effect - relationship between casue and effect
-caustic - acidic - acidic
-censure - castigate - castigate
-chaos - utter confusion - utter confusion
-gauche - crude - crude
-venal - mercenary - mercenary
-chary - wary - wary
-chasten - to chastise - to chastise
-chauvinist - extreme partisan - extreme partisan
-garrulous - anti taciturn - anti taciturn
-veracity - honesty - honesty
-vaccilate - waver indecisvely - waver indecisvely
-jejune - immature - immature
-cacophony - harsh sound - harsh sound
-abate - lessen in degree - lessen in degree
-cadge - beg - beg
-aberrant - deviating from usual - deviating from usual
-gainsay - deny - deny
-abjure - renounce - renounce
-cajole - coax - coax
-abgrogate - put down - put down
-gambol - skip playfully - skip playfully
-abscission - act of removal - act of removal
-caluminate - false accusation - false accusation
-abcond - steal and hide - steal and hide
-jocose - humrorus - humrorus
-abstain - refrain - refrain
-canon - set of laws - set of laws
-accolade - award - award
-variegated - multi colored - multi colored
-accretion - growth - growth
-capricious - erratic - erratic
-acerbic - sour - sour
-jibe - agree - agree
-acumen - quick insight - quick insight
-cardinal - primary - primary
-admonish - express disapproval - express disapproval
-vaunt - brag - brag
-adroit - adept - adept
-caret - isnertion marks used by proof-readers - isnertion marks used by proof-readers
-garner - store - store
-carnality - relating to flesh - relating to flesh
-amenable - agreeable - agreeable
-anachronism - not in chronology - not in chronology
-anathema - cursed - cursed
-anodyne - soothint - soothint
-anomaly - abnormality - abnormality
-antagonize - to irritate - to irritate
-antipathy - dislike - dislike
-antithetical - diametrically opposite - diametrically opposite
-apathy - lack of interest - lack of interest
-apocryphal - spurious - spurious
-apogee - zenith - zenith
-apostate - betrayer of a cause - betrayer of a cause
-apotheosis - perfect example - perfect example
-churlish - vulgar - vulgar
-chic - stylish - stylish
-glib - superficial - superficial
-chicanery - trickery - trickery
-versimilitude - appearing true - appearing true
-chimera - illusion - illusion
-gosammer - delicate - delicate
-choleric - tending towards anger - tending towards anger
-coalesce - fuse - fuse
-veritable - genuine - genuine
-grandiloquence - pompous expression - pompous expression
-coda - concluding section - concluding section
-vexation - arrogance - arrogance
-cogent - convincing - convincing
-vigilant - alert - alert
-color - change - change
-sagacious - wise - wise
-salacious - causing sexual desire - causing sexual desire
-salient - prominent - prominent
-salubrious - promoting health - promoting health
-salutary - remedial - remedial
-sanctimony - self righteousness - self righteousness
-sanction - penalty - penalty
-sanguine - confident - confident
-sap - weaken - weaken
-satiate - overindulge - overindulge
-satire - criticises human vice via humor  - criticises human vice via humor 
-saturnine - gloomy - gloomy
-scury - despicable - despicable
-daunt - intimidate - intimidate
-damp - reduce intensity - reduce intensity
-hackneyed - rendered common by frequent use - rendered common by frequent use
-dearth - lack - lack
-nadir - perigee - perigee
-debacle - fiasco - fiasco
-halcyon - calm - calm
-decorum - appropriate conduct - appropriate conduct
-nascent - coming into being - coming into being
-deleterious - injurious - injurious
-hallow - to make holy  - to make holy 
-demur - oppose - oppose
-natty - neat and tidy - neat and tidy
-denigrate - belittle - belittle
-waft - light breeze - light breeze
-sedulous - persistent - persistent
-seine - large net - large net
-sere - arid - arid
-seminal - origin - origin
-shar - small peices - small peices
-simper - smirk - smirk
-sinecure  - position having less work and more income - position having less work and more income
-singular - unusual - unusual
-sinuous - winding - winding
-slake - to satisfy - to satisfy
-sodden - soaked - soaked
-solder - fuse - fuse
-solicitous - concerned - concerned
-Denouement - outcome - outcome
-harangue - to deliver a loud speech - to deliver a loud speech
-deprecate - denigrate - denigrate
-depredate - plunder - plunder
-nebulous - cloudy, vague - cloudy, vague
-harrow - to torment - to torment
-derision - scorn - scorn
-welter - to be in turmoil - to be in turmoil
-derivative - unoriginal - unoriginal
-hedonism - devoting to pleasurable pursuits - devoting to pleasurable pursuits
-neologism - new world - new world
-dessicate - to dry - to dry
-desuetude - disuse - disuse
-neophyte - novice/tyro - novice/tyro
-hegemony - consistent dominace of one group - consistent dominace of one group
-detraction - verbal attack - verbal attack
-solvent - able to meet financial obligations - able to meet financial obligations
-wend - walk - walk
-sophistry - fallacious resoning - fallacious resoning
-diaphanous - transparent - transparent
-sopohmoric - exhibiting immaturity - exhibiting immaturity
-heretical - unorthodox - unorthodox
-soporific - exhibiting drowsiness - exhibiting drowsiness
-diatribe - harsh denunciation - harsh denunciation
-sordid - foul - foul
-nexus - connection - connection
-sparse - thin - thin
-didactic - intended to teach - intended to teach
-specious - misleadingly attractive - misleadingly attractive
-hermetic - airtight - airtight
-spendthrift - spending money wastefully - spending money wastefully
-die - mould - mould
-splenetic - bad tempered - bad tempered
-nice - done with skill - done with skill
-sporadic - scattered - scattered
-diffident - shy - shy
-spurious - false - false
-whet - sharpen - sharpen
-squalid - sordid, improper - sordid, improper
-digress - to stray away from point - to stray away from point
-squander - to waste - to waste
-whimsical - imaginative - imaginative
-staunch - stop the flow of a fluid - stop the flow of a fluid
-dilate - wide - wide
-iconoclast - attacks traditional conventions - attacks traditional conventions
-kinetic - lively - lively
-labile - unstable - unstable
-idolatrous - excessive devotion to something - excessive devotion to something
-obdurate - inflexible - inflexible
-idyll - light hearted experience - light hearted experience
-rail - to complain bitterly - to complain bitterly
-imperious - commanding - commanding
-baleful - sinister - sinister
-imperturbable - marked by extreme calm - marked by extreme calm
-ramify - branch out - branch out
-impetuous - impulsive - impulsive
-lachrymose - sorrow - sorrow
-implacable - not changing - not changing
-obeisance - gesture expressing respect - gesture expressing respect
-importune - beg continuously - beg continuously
-rancorous - charachterized by bitter sentiment - charachterized by bitter sentiment
-impudent - impertinent - impertinent
-bane - cause of injury - cause of injury
-ignominous - shameful - shameful
-rapacious - greedy - greedy
-imbroglio - embarrasing situation - embarrasing situation
-laconic - terse - terse
-imminent - about to happen - about to happen
-obfuscate - make obscure - make obscure
-immutable - implacable - implacable
-rarefy - less dense - less dense
-impassive - revealing no emotions - revealing no emotions
-obsequious - subservient - subservient
-impecunious - lacking funds - lacking funds
-beatify - to bless - to bless
-rebus - riddle - riddle
-zealous - fervent - fervent
-bedizen - to adorn in a cheap manner - to adorn in a cheap manner
-impugn - censure - censure
-impunity - immunity from punishment  - immunity from punishment 
-impute - attribute to a cause - attribute to a cause
-inalienable - cannot be transferred - cannot be transferred
-inchoate - nascent - nascent
-incipient  - coming into being - coming into being
-indefatigable - tireless - tireless
-indifferent - apathetic - apathetic
-indolent - lazy - lazy
-ineluctable - certain - certain
-inert - unmoving - unmoving
-ingenuous - candid - candid
-recalcitrant - difficult to manage - difficult to manage
-lassitude - weariness - weariness
-belie - misinterpret - misinterpret
-obstinate - stubborn - stubborn
-recant - to retract - to retract
-recapitulate - to summarize - to summarize
-laud - praise highly - praise highly
-recondite - hidden - hidden
-obstreperous - noisy - noisy
-lavish - extravagant - extravagant
-reconnoiter - make a preliminary inspection of  - make a preliminary inspection of 
-bellicose - pugnacious - pugnacious
-obtain - prevail - prevail
-obtuse - not clear or opp to acumen  - not clear or opp to acumen 
-inherent - in one's nature - in one's nature
-inimical - pernicious - pernicious
-inimitable - one of a kind  - one of a kind 
-iniquity - gross injustice - gross injustice
-innervate - energize - energize
-innocuous - harmless - harmless
-inscrutable - mysterious - mysterious
-insensible - numb - numb
-insipid - without taste  - without taste 
-insouciant - unconcerned - unconcerned
-insular - narrow minded, parochial - narrow minded, parochial
-interdict - prohibit - prohibit
-intimate - to insinuate - to insinuate
-intractable - not easily managed - not easily managed
-redolent - fragrant - fragrant
-occlude - obstruct - obstruct
-bent - inclination - inclination
-obviate - to anticipate and make unnecessary - to anticipate and make unnecessary
-letharhic - sluggish - sluggish
-innervate - energize - energize
-redoubtable - awe inspiring - awe inspiring
-blandish - to coax with flattery - to coax with flattery
-refulgent - radiant - radiant
-libertine - someone unrestrained by morality - someone unrestrained by morality
-refute - disprove - disprove
-blithe - carefree - carefree
-occult - hidden - hidden
-limn - to outline in detail - to outline in detail
-regale - feast - feast
-boisterous - loud - loud
-odious - hateful - hateful
-relegate - forcibly assign to a lower place  - forcibly assign to a lower place 
-untoward - troublesome - troublesome
-static - not moving - not moving
-ebullience - quality of lively expression of thought  - quality of lively expression of thought 
-stoic - steadfast - steadfast
-eccentric - unconventional  - unconventional 
-gregarious - sociable - sociable
-eclectic - heterogenous mixture - heterogenous mixture
-steep - completely sodden - completely sodden
-edifying - enlightening - enlightening
-upbraid - scold - scold
-efficacy - ability to produce a result - ability to produce a result
-stentorian - grandiloquence - grandiloquence
-effrontery - extreme boldness - extreme boldness
-stint - fetter - fetter
-effusive - gushing - gushing
-grouse - to complain - to complain
-egress - exit - exit
-urbane - sophisticated - sophisticated
-elegy - mournful poem - mournful poem
-stolid - phlegmatic - phlegmatic
-eloquent - articulate - articulate
-struts - structural support used to brace - structural support used to brace
-emmolient - mollifying - mollifying
-guile - trickery - trickery
-empirical - based on observation  - based on observation 
-striated  - striped - striped
-encomium - glowing praise - glowing praise
-usury - exorbitant rate of interest - exorbitant rate of interest
-endmeic - characteristic of a location - characteristic of a location
-stupefy - to stun - to stun
-enervate - weaken - weaken
-guye - rope attached to something as a brace - rope attached to something as a brace
-stymie - block - block
-engender - to cause - to cause
-heterodox - heretical - heretical
-enigmatic - mysterious - mysterious
-subpoena - a court ordering, requiring appearance  - a court ordering, requiring appearance 
-ennui - dissatisfaction and restlessness resulting from boredom  - dissatisfaction and restlessness resulting from boredom 
-hirsute - hairy  - hairy 
-enormity - evilness - evilness
-subtle - not obvious  - not obvious 
-ephemeral - fleeting - fleeting
-homily - sermon - sermon
-epicure - sybarite - sybarite
-succint - terse - terse
-episodic - loosely connected - loosely connected
-homogenous - same throughout - same throughout
-epithet - disparaging word  - disparaging word 
-succor - assistance - assistance
-epitome - quintessence - quintessence
-hubris - pride - pride
-equanimity - composure - composure
-sundry - various - various
-equable - level headed - level headed
-equivocate - using ambiguous language with a deceptive intent - using ambiguous language with a deceptive intent
-supercilious - peremptory - peremptory
-errant - peripatetic - peripatetic
-hyperbole - exaggerated statement - exaggerated statement
-erratic - sporadic - sporadic
-superfluous - unnecessary - unnecessary
-erudite - scholarly - scholarly
-supine - fallow - fallow
-magnanimity - generously noble - generously noble
-supplant - to take place of - to take place of
-malevolent - showing ill will - showing ill will
-intransigent - refusing to compromise - refusing to compromise
-maligner - to fake illness to avoid work - to fake illness to avoid work
-suppliant - beseeching - beseeching
-malleable - changed - changed
-tirade - harsh denunciation - harsh denunciation
-martial - associated to war - associated to war
-intrepid - steadfast - steadfast
-martinet - rigid disciplinarian - rigid disciplinarian
-supplicant - beggar - beggar
-maunder - wander and talk aimlessly - wander and talk aimlessly
-toady - sychophant - sychophant
-maverick - an independent individual who does not go along with a group - an independent individual who does not go along with a group
-inundate - to overwhelm - to overwhelm
-melancholy - tending towards sadness - tending towards sadness
-inured - becoming used to without liking it - becoming used to without liking it
-mellifluous - sweetly flowing - sweetly flowing
-surfeit - to feed in excess - to feed in excess
-mendacity - dishonesty - dishonesty
-torpid - sluggish - sluggish
-sychopant - fawning person - fawning person
-mendicant - beggar - beggar
-mercurial - characterized by rapid and unpredicatble change - characterized by rapid and unpredicatble change
-inveigh - denounce - denounce
-meretricious - tawdry - tawdry
-synthesis - combining parts to  make whole - combining parts to  make whole
-meticulous - attention to detail - attention to detail
-inveigle - obtain by deception or flattery - obtain by deception or flattery
-pillory - to punish - to punish
-torque - a force that causes rotation - a force that causes rotation
-pine - to yearn intensly - to yearn intensly
-limpid - diaphanous - diaphanous
-pious - extreme veneration - extreme veneration
-torrid - scorching - scorching
-piquant - spicy - spicy
-list - to tilt - to tilt
-pique - resentment - resentment
-tortous - sinuous - sinuous
-pirate - to use illegally - to use illegally
-loquacious - extremely talkative - extremely talkative
-pith - central part - central part
-tout - publicly praised - publicly praised
-placate - mollify - mollify
-tractable - docile - docile
-plaintive - mournful - mournful
-luicd - clear - clear
-plangent - resounding - resounding
-transient - fleeting - fleeting
-plastic - moldable - moldable
-lumber - to move heavily - to move heavily
-platitude - glib remark - glib remark
-travesty - mockery - mockery
-plethora - surplus - surplus
-luminous - clear - clear
-plunk - courage - courage
-trenchant - keen - keen
-plumb - to measure for depth - to measure for depth
-truculent - fierce - fierce
-commensurate - matching - matching
-apposite - appropriate - appropriate
-complaisance - willingness to help someone - willingness to help someone
-apprise - inform - inform
-approbation - expression of approval - expression of approval
-confound - frustrate - frustrate
-appropriate - confiscate - confiscate
-connoisseur - expert - expert
-arabesque - complex - complex
-consequential - pompous - pompous
-arcane - esoteric - esoteric
-contemn - scorn - scorn
-arrant - impudent - impudent
-contentious - argumentative  - argumentative 
-articulate - express clearly - express clearly
-contiguous - adjacent - adjacent
-artless - guileless - guileless
-contrite - regretful - regretful
-archaic - old - old
-ascetic - one who practises rigid self denial - one who practises rigid self denial
-arduous - strenous - strenous
-asperity - severity - severity
-arrest - to suspend  - to suspend 
-aspersion - act of defamation - act of defamation
+paean - song of praise - a paen was sung on his retirement
+table - to remove from consideration - the project was table due to fund crunch
+paliate - mitigate - the effects of the flood were paliated by the ndrf
+facetious - happy - facetious face releives stress
+pandemic - widespread - corona virus is a pandemic
+ubiquitous - existing everywhere - god is ubiquitous
+panegyric - formal expression of praise - panegryic on his retirement was given
+taciturn - not talkative - an introvert tends to be a taciturn
+paradigm - model example - his inventions were a paradigm for other scientists
+fallacy - incorrect notion - sleeping for 4 hrs twice a day keeps you healthy,is a fallacy
+paradox - contradictory - there are many paradoxical events that cannot happen
+quaff - to drink deeply - he quaffed over his failure
+paragon - regarded as a model - crisis on infinite earths
+talisman - something which brings good luck - take your talisman with you for the exan
+pariah - outcast - nash wels
+fallow - inactive - due to your fallowness, your account has been suspended
+parody - humorous imitation - pardoy of avengers was very funny
+umbrage - resentment - the students expressed umbragedness over the hike in fees
+parry - ward off - the keeped parried the ball
+tamp - stamp down by blows - 
+parsimonious - miserly - 
+fanatical - zealous - 
+partisan - biased - 
+paucity - scarcity - 
+fatuous - silly - 
+peccadilo - slight offense - 
+fawn - to flatter - 
+pedagogy - profession of teaching - 
+tautology - repetition - 
+pedantic - unimaginative - 
+taudry - cheap - 
+pedestrian - unremarkable - 
+quail - lose courage - 
+penchant - liking - 
+fell - barren hill - 
+penurious - thrifty - 
+undulate - fluctuate - 
+peremptory - haughty - 
+peripatetic - traveling - 
+tendentious - partisan - 
+perfunctory - cursory - 
+tenacity - stubbornness to do something - 
+perfudy - treachory - 
+felicituous - well chosen - 
+perennial - regular - 
+feckless - reckless - 
+pernicious - extremely harmful - 
+personable - attractive - 
+trivial  - inconsequential - 
+stray - wander - 
+perspicacious - perspective - 
+peruse - examine with great care - 
+pervade - permeate throughout - 
+petrous - rocky - 
+petulant - impatient  - 
+philantrophic  - humanitarian - 
+philistine - individual guided by material rather than values - 
+phlegmatic  - calm - 
+picaresque  - adventurous - 
+pied - colored in patches - 
+tender - offer formally - 
+tenuous - weak - 
+fervent - zealous - 
+fetid - stinky - 
+unfeigned - genuine - 
+qualify - restrict - 
+untenable - inviable - 
+filibuster - intentional obstruction - 
+fetter - restrain - 
+timorous - fearful - 
+terse - concise - None
+adulation - intense admiration - mom's adulate their children
+adulterate - reduce purity - the milk was adulterated 
+adumbrate - suggest - he adumbrated some changes to the model 
+advocate - support - he was an advocator of change
+aesthetic - appreciation of art - the scenery was aesthetic
+aggrandize - appear greater - his achievements are aggrandized by him
+alacrity - eager willingness - Amy responded to the invitation with alacrity 
+alchemy - magical transformation - the boring play was transformed into an exciting one by the alchemy of the actor
+alloy - dilute by mixing - never alloy pure juice with water 
+amalgate - fuse - steel is an amalgamation of various metals
+ambiguity - uncertainty - lala
+ambivalence - having opposite ideas - nikki's ambivalence about the job offer was apprent
+ameliorate - make tolerable - the taste of plain salad cannot be ameliorated by spices
+germane - appropriate to matter - his comments on the tech used were germane
+castigation - extreme criticism - censure
+venerate - revere - the fans venerated the band
+catalyst - accelerate change - her inputs catalysed the process
+causality - relationship between casue and effect - cause 
+caustic - acidic - acerbic liquid
+censure - castigate - extreme criticism 
+chaos - utter confusion - zombies will create chaos in the world
+gauche - crude - oil type
+venal - mercenary - Oliver Queen was a venal
+chary - wary - always be chary of your enemies
+chasten - to chastise - chastity belt
+chauvinist - extreme partisan - biased extremist
+garrulous - anti taciturn - his garroulousness is going to land him in trouble for revealing the secrets 
+veracity - honesty - veracity is the best policy
+vaccilate - waver indecisvely - oscillate
+jejune - immature - his jejune descision led to his fall
+cacophony - harsh sound - untuned instruments give cacophony
+abate - lessen in degree - his punishment was abated on appeal
+cadge - beg - last 3 words
+aberrant - deviating from usual - abberation in lot
+gainsay - deny - he gainsayed the charges
+abjure - renounce - they abjured the material pleasures
+cajole - coax - she cajoled him to come
+abgrogate - put down - he abgrodated his bully
+gambol - skip playfully - he gambol his way to home after school
+abscission - act of removal - his abscission from the company was unfair
+caluminate - false accusation - the charges on him were caluminate
+abcond - steal and hide - the thief absconded with the loot
+jocose - humrorus - his jokes are very jocose
+abstain - refrain - abstain from drinking regularly
+canon - set of laws - always follow the canon of a country
+accolade - award - he was accoladed for his work
+variegated - multi colored - pied
+accretion - growth - a college's status accretions when it is accredited
+capricious - erratic - the flow of water was capricious
+acerbic - sour - taste of acid
+jibe - agree - the group jibed to the proposal
+acumen - quick insight - he was known for his political acumen
+cardinal - primary - drinking is cardinal sin
+admonish - express disapproval - his remarks were admonish by her
+vaunt - brag - he vaunted his achievements
+adroit - adept - he was adroit at maths
+caret - isnertion marks used by proof-readers - ^
+garner - store - people garnered supplies to tackle the zombie apocalypse
+carnality - relating to flesh - carnivorous animals like to eat
+amenable - agreeable - his nature is very amenable 
+anachronism - not in chronology - Aap anachronism samajhiye
+anathema - cursed - Egyptian mummies are thought to be anathema
+anodyne - soothint - sensodyne
+anomaly - abnormality - 6 fingers in one hand is an anomaly
+antagonize - to irritate - the antagonist antagonize the protagonist 
+antipathy - dislike - pathos means feeling
+antithetical - diametrically opposite - anti thesis
+apathy - lack of interest - he showed apathy in his work
+apocryphal - spurious - rise in apocryphal sanitisers has menaced the police 
+apogee - zenith - he had reached the apogee of his career
+apostate - betrayer of a cause - he apostated us when he join them
+apotheosis - perfect example - ram is the apotheosis of honesty
+churlish - vulgar - don't speak churlish language
+chic - stylish - qqq
+glib - superficial - material pleasures are glib
+chicanery - trickery - the magician was known for his chicanery
+versimilitude - appearing true - his plan was verisimilitude until his gang got caught 
+chimera - illusion - the world is but a chimera
+gosammer - delicate - taylor swift - go save her
+choleric - tending towards anger - patience being tested, he was becoming choleric
+coalesce - fuse - qqq
+veritable - genuine - his claims were veritable 
+grandiloquence - pompous expression - selection for the program prompted him to display grandiloquence
+coda - concluding section - the end
+vexation - arrogance - he nature has lots of vexation 
+cogent - convincing - his lies were very cogent
+vigilant - alert - jaate rahooo
+color - change - his natured colored due to their fight
+sagacious - wise - buying shares now was a sagacious decision
+salacious - causing sexual desire - playboy causes sagaciousness in people
+salient - prominent - salient features
+salubrious - promoting health - carrots are salubrious for your health 
+salutary - remedial - the extra classes are salutary to your studies
+sanctimony - self righteousness - his sanctimony was laughable
+sanction - penalty - india sanctioned pak on trade
+sanguine - confident - she was so sanguine that she booked the honeymoon package beforehand
+sap - weaken - rigorous training sapped his strength 
+satiate - overindulge - his liking for chocolate was never satiated by how much he ate
+satire - criticises human vice via humor  - his statire on human nature was great 
+saturnine - gloomy - the atmosphere turned staurnine due to the cloudy skies
+scury - despicable - his actions were scurvy
+daunt - intimidate - he was daunted by the size of the roti
+damp - reduce intensity - his actions damped our enthusiasm 
+hackneyed - rendered common by frequent use - use of TV is hackneyed by us
+dearth - lack - dearth of toilet paper 
+nadir - perigee - moon ke 2 extremes
+debacle - fiasco - fisco
+halcyon - calm - centre of a storm is halcyon
+decorum - appropriate conduct - maintain the decorum of the class
+nascent - coming into being - his plan nascented 
+deleterious - injurious - delete 
+hallow - to make holy  - the place was hallowed to make a temple 
+demur - oppose - the plan was demurred by extremists
+natty - neat and tidy -  n and ty
+denigrate - belittle - don't denigrate his ambitions
+waft - light breeze - it's so serene to sit on a cliff with a waft
+sedulous - persistent - his sedulous efforts fetched him the prize 
+seine - large net - fishermen use seines
+sere - arid - desert 
+seminal - origin - never forget your seminal roots
+shar - small peices - iron man
+simper - smirk - he simpered on his success
+sinecure  - position having less work and more income - priests without churches 
+singular - unusual - he was singularly ill suited to ballet
+sinuous - winding - the snake weaved sinuously as the snake charmer sang
+slake - to satisfy - I drank water to slake my thirst
+sodden - soaked - my pants were sodden with my piss
+solder - fuse - cold soldering in space
+solicitous - concerned - I was solicitous of her health 
+Denouement - outcome - the denouement of the exam was awaited
+harangue - to deliver a loud speech - a large dcrowd had gathered to hear the politicans harangue
+deprecate - denigrate - the verison of the software was depricated
+depredate - plunder - the king depredated the kingdom
+nebulous - cloudy, vague - his actions were very nebulous
+harrow - to torment - the police harrowed the convict
+derision - scorn - the society scorned him for this actions
+welter - to be in turmoil - his life has been in welter recently
+derivative - unoriginal - his art work wsa derivative
+hedonism - devoting to pleasurable pursuits - he spent his whole life devot
+neologism - new world - relating to new
+dessicate - to dry - dessicator
+desuetude - disuse - the vehicle was let go because of desuetude
+neophyte - novice/tyro - he was a neophyt at the game
+hegemony - consistent dominace of one group - the us exhibits hegemony in recent times
+detraction - verbal attack - he launched into a detraction on being insulted
+solvent - able to meet financial obligations - his company is in a good state , being a solvent
+wend - walk - he used to go to the garden to wend
+sophistry - fallacious resoning - they were given the sophistry that their money would double in 10 days
+diaphanous - transparent - her diaphanous dress left little to imagination
+sopohmoric - exhibiting immaturity - sophomore
+heretical - unorthodox - his heretical wasy were disregarded by the church
+soporific - exhibiting drowsiness - lack of sleep has made him soporific
+diatribe - harsh denunciation - he went on a diatribe for the soup being cold
+sordid - foul - the people in the chawl lived in sordid conditions
+nexus - connection - gas ka nexus
+sparse - thin - the surrounding are had sparse vegetation
+didactic - intended to teach - how did he try to be didactic towards me?
+specious - misleadingly attractive - the brunette , being specious, stole their wallets
+hermetic - airtight - hermetic jar
+spendthrift - spending money wastefully - he ia a spendthrift
+die - mould - the cake was amde using a die
+splenetic - bad tempered - he is known for being splenetic
+nice - done with skill - his work was nice
+sporadic - scattered - the area was laid out with sporadic vegetation
+diffident - shy - the diffident kid hid behind his mother
+spurious - false - the spurious methanol
+whet - sharpen - he whet his knife on the rock
+squalid - sordid, improper - his manners were squalid
+digress - to stray away from point - dont digress, come to the point!, barked the teacher
+squander - to waste - dont squander your precious time
+whimsical - imaginative - a whimsical idea came in his mind for the party
+staunch - stop the flow of a fluid - he staunched the wound to stop the blood from flowing
+dilate - wide - the pupils dilae=te when you see someone you love
+iconoclast - attacks traditional conventions - he is an iconoclast, who does not believe in traditions 
+kinetic - lively - her presence makes the atmosphere kinetic 
+labile - unstable - the desk was labile for the heavy load
+idolatrous - excessive devotion to something - hanuman was idolatrous to ram 
+obdurate - inflexible - the gymnasts body is very unobdurate
+idyll - light hearted experience - staying like a hermit for a day was very idylling for him
+rail - to complain bitterly - the union railed against the new law
+imperious - commanding - the king had an imperious tone
+baleful - sinister - his intention for hosting the party were baleful
+imperturbable - marked by extreme calm - the Saint was imperturbable
+ramify - branch out - The discussion was stopped as the contestants ramified from the main topic
+impetuous - impulsive - never take impetuous decisions
+lachrymose - sorrow - he expressed lachrymose on hearing the tragic news
+implacable - not changing - the quality of this great show has been implacable
+obeisance - gesture expressing respect - they bowed in obeisance to the king
+importune - beg continuously - the was importunous for the role
+rancorous - charachterized by bitter sentiment - the crowd was rancorous on hearing the news
+impudent - impertinent - he was impudent towards the elderly
+bane - cause of injury - wayne was the bane to bane
+ignominous - shameful - his actions were ignominous to his sister
+rapacious - greedy - his rapaciousness for wealth led to his fall in status
+imbroglio - embarrasing situation - caught having sex put him in an imbroglio
+laconic - terse - ram had sent a laconic msg to raavan informing him about the daivi astra
+imminent - about to happen - closure of college was imminent
+obfuscate - make obscure - the scribbling obfuscated the text
+immutable - implacable - strings are implacable
+rarefy - less dense - the forests aare being rarefied by humans
+impassive - revealing no emotions - the executioner was impassive
+obsequious - subservient - the dog was obsequious to his human
+impecunious - lacking funds - the department was impecunious for the project
+beatify - to bless - the child was beatified by the priest
+rebus - riddle - rebus me not is a popular game
+zealous - fervent - he was fervent for the new movie
+bedizen - to adorn in a cheap manner - he looked at her in a bedizen way
+impugn - censure - the candidates attempt to impugn his  opponent backfired
+impunity - immunity from punishment  - no one has impunity, not even the teachers
+impute - attribute to a cause - the puncture was imputed to the needle
+inalienable - cannot be transferred - human rights are inalienable
+inchoate - nascent - our plan for world domination is still inchoate
+incipient  - coming into being - his plan became incipient after the seed funding
+indefatigable - tireless - he worked day and night, being indefatigable 
+indifferent - apathetic - hsi attitude towards money was indifferent 
+indolent - lazy - stop being indolent and do some work
+ineluctable - certain - his gut feeling has always been ineluctable
+inert - unmoving - the snail moves at such a slow pace that to the human eye it appears to be inert
+ingenuous - candid - fake ingenious photos are on the rise
+recalcitrant - difficult to manage - the group, being so large, was recalcitrant 
+lassitude - weariness - being in quarantine has got people feeling lassitude
+belie - misinterpret - his actions belied his intentions 
+obstinate - stubborn - he was obstinate for the gift 
+recant - to retract - slowly recant to the door and call for help
+recapitulate - to summarize - the entire meeting is recapitulated in the minutes 
+laud - praise highly - his was lauded for the win
+recondite - hidden - the best was to recondite something is in plain sight
+obstreperous - noisy - the neighbours can be quite obstreperous at night 
+lavish - extravagant - he led a lavish life, which belied his income
+reconnoiter - make a preliminary inspection of  - before getting a fire grant, the fire department will reconnoiter the place
+bellicose - pugnacious - not getting what he wants makes him bellicose
+obtain - prevail - his honesty obtained the cross questioning of the officer
+obtuse - not clear or opp to acumen  - having a weak acumen 
+inherent - in one's nature - honesty is inherent in him
+inimical - pernicious - his actions are inimical to the society 
+inimitable - one of a kind  - they made an inimitable product 
+iniquity - gross injustice - the criminal, living a free life, is an inquity to the oppressed people 
+innervate - energize - the squad was innervated by the coachs' talk
+innocuous - harmless - it is an innocuous animal 
+inscrutable - mysterious - the appearance of the idol, out of the blue, has been inscrutable
+insensible - numb - his body was insensible after the crash
+insipid - without taste  - no salt renders food  insipid
+insouciant - unconcerned - he was insouciant for his daughter's report
+insular - narrow minded, parochial - his insular mind was met with rebel
+interdict - prohibit - the government interdicted movement of vehicles
+intimate - to insinuate - guard intimate the arrival of the king 
+intractable - not easily managed - handling so much paper work is intractable
+redolent - fragrant - this flowers has a nice redolent
+occlude - obstruct - the 2weak internet occluded out work
+bent - inclination - his company was hell bent on buying us out
+obviate - to anticipate and make unnecessary - finding my purse obviate the need to hire investigators for finding it
+letharhic - sluggish - not exercising can make you lethargic
+innervate - energize - he wqs innervated after doing puja 
+redoubtable - awe inspiring - he had redoubtable achievements 
+blandish - to coax with flattery - he blandished me into approval
+refulgent - radiant - his face was refulgent with joy
+libertine - someone unrestrained by morality - flirting with so many girls showed his libertines toward his gf
+refute - disprove - the org refuted the scientists claims
+blithe - carefree - young and blithe
+occult - hidden - the best way to occult something is in plain sight
+limn - to outline in detail - he limned about the events 
+regale - feast - the lion regaled on his prey
+boisterous - loud - a group of boisterous kids
+odious - hateful - he is odious to me for my achievements 
+relegate - forcibly assign to a lower place  - the bottom 3 teams are relegated to a lower league
+untoward - troublesome - small kinds tend to be very troublesome when playing 
+static - not moving - the car was static
+ebullience - quality of lively expression of thought  - ebullience of happy children
+stoic - steadfast - he was stoic, even after being shot 
+eccentric - unconventional  - modern art is eccentric 
+gregarious - sociable - human being is a gregarious animal
+eclectic - heterogenous mixture - the scientists at the convention were eclectic mixture 
+steep - completely sodden - her pants were steep after being in the rain
+edifying - enlightening - her tutorial was an edifying one in aws
+upbraid - scold - kids who are upbraided while growing tend to be revolting
+efficacy - ability to produce a result - the lead selected ram for the mission, since he had displayed high efficacy amongst his peers 
+stentorian - grandiloquence - politicians rally speech is stentorian
+effrontery - extreme boldness - wearing such a short mini skirt was effrontery on her part
+stint - fetter - a stinting order was passed against the convict 
+effusive - gushing - the blood was effusing from the wound
+grouse - to complain - rail against
+egress - exit - emergency egress
+urbane - sophisticated - mobile phones have now become urbane
+elegy - mournful poem - he read an elegy during the funeral
+stolid - phlegmatic - halcyon
+eloquent - articulate - the embroidery was very eloquent 
+struts - structural support used to brace - horse struts
+emmolient - mollifying - the myna sang an emmolient song
+guile - trickery - he guiled us into believing the price of the flat 
+empirical - based on observation  - results of an experiment are always empirical 
+striated  - striped - a horse is striated 
+encomium - glowing praise - his win led to encomiun for his peers 
+usury - exorbitant rate of interest - usury on even a small loan can lead to high interest payments 
+endmeic - characteristic of a location - dhokla is the endemic of Gujarat 
+stupefy - to stun - Harry stupefied malfoy 
+enervate - weaken - voldemort was enervated after the battle
+guye - rope attached to something as a brace - we thought the guye would break, but were happy after it sustained the weight of the grouo
+stymie - block - the road was stymied by trees
+engender - to cause - the opprseive tax laws engendered the revolt
+heterodox - heretical - his approach can be termed as heterodox, not conventional
+enigmatic - mysterious - it's a quite simple but enigmatic spell 
+subpoena - a court ordering, requiring appearance  - his family was shocked after their perceived innocent child was subpoenad 
+ennui - dissatisfaction and restlessness resulting from boredom  - lockdown is causing ennui in people 
+hirsute - hairy  - no one likes to look at hirsute parts 
+enormity - evilness - dofenshmirtz was an epitome of enormity 
+subtle - not obvious  - she gave him subtle hints that she liked her
+ephemeral - fleeting - the higss boson is an ephemeral particle 
+homily - sermon - the priest gave homily to the offenders thereby pardoning them 
+epicure - sybarite - he likes to dine in 5 start hotels only, claiming it satisfies his epicure 
+succint - terse - his message was succinct and clear
+episodic - loosely connected - all the movies in the mcu are episodic
+homogenous - same throughout - the color of the room has to be homogenous
+epithet - disparaging word  - cuss words are epithets
+succor - assistance - old people need succor to cross roads
+epitome - quintessence - he is the epitome of kindness 
+hubris - pride - he has a lot of hubris to apologize 
+equanimity - composure - never lose your equanimity even in the face of danger 
+sundry - various - you need to know sundry words to have a chance at acing gre
+equable - level headed - he kept an equable mindset even when he thought he was going to loose
+equivocate - using ambiguous language with a deceptive intent - the government have equivocated too often in the past
+supercilious - peremptory - a supercilious lady's maid
+errant - peripatetic - wanderlust
+hyperbole - exaggerated statement - hyperbole are a part and parcel of his life, he claims it adds fun
+erratic - sporadic - her breathing was erratic due to jogging for 30 mins 
+superfluous - unnecessary - the purchaser should avoid asking for superfluous information
+erudite - scholarly - his marks do not showcase his erudite nature
+supine - fallow - supineness led to an increase in his weight 
+magnanimity - generously noble - people were magnanimously donating for the pandemic fund
+supplant - to take place of - the place of the head was supplanted after she resigned
+malevolent - showing ill will - the bully was malevolent to the new kid
+intransigent - refusing to compromise - the robbers were intransigent with the police
+maligner - to fake illness to avoid work - children are used to malignering
+suppliant - beseeching - he was supplianted by her for his notes
+malleable - changed - the thiefs' demands were not malleable
+tirade - harsh denunciation - she went in a tirade after her favorite pastry was finished
+martial - associated to war - only the army can bring the martial law into action
+intrepid - steadfast - she was steadfast for her demand of a toy
+martinet - rigid disciplinarian - monica was a cleanliness martinet
+supplicant - beggar - he became a supplicant after filing for bankruptcy
+maunder - wander and talk aimlessly - theyh maundered for an hour, catching up with the happnenings in each other's life
+toady - sychophant - his juniors were always toady towards the captain
+maverick - an independent individual who does not go along with a group - a special ops solider is trained to be a maverick
+inundate - to overwhelm - the hospitals in italy have been inundated due to covid 19
+melancholy - tending towards sadness - the show sent on a melancholic note after the death of the lead actor
+inured - becoming used to without liking it - i have become inured to waking up at 6 am
+mellifluous - sweetly flowing - the girl was so sweet that it was like the words were melliflously spoken by her
+surfeit - to feed in excess - the queen ensured that her children were surfeited
+mendacity - dishonesty - the group was tired of the mendacity of denver
+torpid - sluggish - the doctors were starting to become torpid after not sleeping for over 30 hours
+sychopant - fawning person - toady
+mendicant - beggar - the governmment is helping all the mendicants by providing releif shelters for them to stay
+mercurial - characterized by rapid and unpredicatble change - the flow of water can be decribed as mercurial , at best
+inveigh - denounce - the duke inveighed his royalty to settle in usa
+meretricious - tawdry - he was always skeptical of giving away his money due to his meretricious nature.
+synthesis - combining parts to  make whole - the medicine has to be synthesised from the different herbs
+meticulous - attention to detail - the judge was seeing her dance meticulously
+inveigle - obtain by deception or flattery - he inveigle the artifact from the art collector
+pillory - to punish - he was grounded for a week as pillory
+torque - a force that causes rotation - the torque on the car was unbelievable
+pine - to yearn intensly - he pined for momos during the lockdown
+limpid - diaphanous - the plastic cover was limpid
+pious - extreme veneration - hanuman was pious for ram
+torrid - scorching - torrid heat in the desert
+piquant - spicy - indian food is know to be piquant
+list - to tilt - agar ghee sidhi unglie se na nikle toh unglie list karni padti hai
+pique - resentment - there was pique for pique after he fouled ramos
+tortous - sinuous - the roads on the hills are tortous
+pirate - to use illegally - to torrent is to pirate
+loquacious - extremely talkative - tania is loquacious
+pith - central part - stop beating about the bush and come to the pith of the topic
+tout - publicly praised - he was touted for his bravery in the resue of the kid
+placate - mollify - he tried to placate his seniors for getting the promotion
+tractable - docile - he dog was trained to be tracatable
+plaintive - mournful - the entire nation was plaintive for the pm
+luicd - clear - the sky turned lucid after the rains went away
+plangent - resounding - the theater was plangent to thor's entry in infinity war
+transient - fleeting - enojy the small transient moments with your loved ones
+plastic - moldable - your ethics should never be plastic
+lumber - to move heavily - the tree was lumbered by 4 people
+platitude - glib remark - she burst into platitudes when it was her turn to say something to the king
+travesty - mockery - the lawyer made a travesty of the case by bringing a cow to the witness panel
+plethora - surplus - there is plethora of salty water in the ocean
+luminous - clear - his thought began to become luminos after falling to the ground due to the knock
+plunk - courage - plunk the cowardly sheep
+trenchant - keen - he wsas trenchant for the results
+plumb - to measure for depth - the ocen was mapped using plumbs
+truculent - fierce - the little lion roared with truculent force
+plummet - to plunge - the diver plummeted into to the pool
+poignant - distressing - exams were not cancelled leading to a poignant situation
+remostrate - to protest - they remostrated caa and nrc acts
+polemical - controversial - the death of netaji bose was polemical
+inveterate - deep rooted - many marriage traditions are inveterate
+pragmatic - practical - being pragmatic is the way to go in this situation
+renege - go back on  a promise - it is not good to renege
+prate - babble - tania prates alot
+invidious - tending to arouse envy in others - prathmesh
+prattle - to prate meaninglessly - tania prattles sometimes
+turpitude - depravity - nothing works in a government office as much as turpitude
+precarious - risky - the police found themselves in a precarious position with the robbers
+rent - torn - the hull of the titanic was rented by the iceberg
+precept - rule establishing standard of conduct - every year the committee meets to make a few changes in the precepts
+tyro - neophyte - he is a tyro in shooting an arrow
+precipitate - acting with excessive haste - never precipitate when angry at something
+repine - longing for - everyone is repining for momos in this lockdown
+precursor - something that precedes and announces another - the sweet dish is the precursor to mukhwas
+irascible - easily angered - having a short temper made him irascible
+predilection - preference - he has a predilection towards red heads
+tumid - swollen - his ankle was tumid after he twisted it on the stairs
+preempt - replace - the high priority process preempted the lower priority process
+intinerate - to travel from place to place - his business requires him to itinerate every month
+preem - to groom - the bride was preened by her best friend
+turbid - muddy - the water on the beach was turbid
+prescience - knowing of events before occuring - sadhus are known to have precscience
+presumptous - overstepping bounds - not meaning to be presumptous, but you should cover yourself more
+turgid - tumid - the river was turgid with water, foaming a lot
+risible - hilarious - the standup comdian made some risible jokes
+mettlesome - courageous - his decision to defy the higher authorities orders was mettlesome
+rubric - authoritative rule - the presidents attitude has changed since the rubrics have got to his mind
+militate - to argue against - the head militated against the decision of the team
+vilify - to defame - the company slapped a lawsuit on mr rick for vilifying their products
+milk - to exploit - the labourers were milked of their strength by the factory
+rue - regret - do not do anything when angry or you'll rue it afterwards
+rhetoric - study of effective use of language or persuasion - his rhetoric and emotional question were convincing enough to make the group leave that place
+minatory - menacing - the sight of the zombies is minatory
+virulent - extremely harmful - not wearing a mask in todays time is considered to be virulent
+mince - speak carefully - he is not one to mince his words, he always says what is on his mind
+reverent - revere - he was a reverent follower of the doctor
+misanthrope - one who hates humankind - dont be a misanthrope, go and help those kids
+viscous - thick - petrol is a viscous liquid
+misogynist - one who hates women - after his gf dumped him, he turned into a misogynist
+reticent - quiet - an introvert is a reticent person
+mitigate - palliate - the avengers mitigated the threat of lokis army
+vitiate - reduce the  value of - breaking the screen of the phone vitiated the resala value of the same
+mollify - halcyon - after the mollify come the storm
+resolute - steadfast - his resolute deision to leave was unwavered by her wife's pleas
+monotony - lack of change - bored from the monotonous life, he decided to go on a break
+vituperate - to use condemnatory language - his anger often leads to him vituperating the other guy
+morose - sad - dont be morose, we can eat ice cream any other day
+rescind - to repeal - the president rescinded his emergency orders soon
+multifaceted - having many aspects - this is a big decision to make, it is multifaceted
+volatile - easily changeable - the volatile ness of the liquid was a concern for the doctors
+multifarious - varied - his portfolio has multifarious skills
+repudiate - disown - his family disowned him when he was prisoned for life
+mundane - typical - his actions are mundane of any tech enthusiast in the world
+voracious - insatiable appetite for something - his voraciousness for success led him working 100 hours per week
+commensurate - matching - the couple had bought commensurate clothes
+apposite - appropriate - it is not apposite for a child to see such movies
+complaisance - willingness to help someone - don't try to force your complainant nature on me, I'll do as I please 
+apprise - inform - the police was apprised of the robbery 
+approbation - expression of approval - after getting an approbation from his friends , they decided to let Amy play with them
+confound - frustrate - covid 19 has confounded the scientists 
+appropriate - confiscate - stop playing with your gun or else I'll appropriate it
+connoisseur - expert - he is a connoisseur of fine dining
+arabesque - complex - his explanation only made my understanding of the topic arabesque
+consequential - pompous - the decision to bomb Iran was a consequential one 
+arcane - esoteric - the road looked arcane at night
+contemn - scorn - he contemned her for leaving him out in the cold
+arrant - impudent - behave and apologise to her for your arrantness
+contentious - argumentative  - the findings of the research were contentious
+articulate - express clearly - the details in this painting have been articulated seamlessly 
+contiguous - adjacent - contiguous memory allocation 
+artless - guileless - his plans to woo here were artless
+contrite - regretful - his actions when he gave up on his dreams are contrite for him
+archaic - old -  archaic painting 
+ascetic - one who practises rigid self denial - rishika is an ascetic 
+arduous - strenous - moving that tree from the road was arduous 
+asperity - severity - you are not understanding the asperity of the situation 
+arrest - to suspend  - he arrested him for his misbehavior 
+aspersion - act of defamation - a huge lawsuit was filed on them due to their asperasion
+dilatory - causing delay - waking up kate ahd a dialtory effect on his meetingsq
+bolster - reinforce - the presence of few candidates bolstered his chances of getting accepted
+dilettante - one having a superficial interest in arts - his dilettanteness led him to buy that fake painting
+convention - agreed upon practise - the environment conventions state that poullution should be withing defined limits
+din - sustained noise - the din of the factorys machine was annoying
+bombastic - pompous - the presidents arrival was bombastic
+dirge - mournful song - john legend is known for his dirges
+convoluted - complicated - presence of his ex gf at his won wedding convoluted the proceedings
+disabuse - to undeceive - they had to do a lot of hardwork to make sure taht the new group was as disabusing as they claimed
+boor - a rude person - he does not have manners, he is a boor
+discomfit - to set right - we have to discomfit the wrong rule sset by the leader
+corrigible - capable of being corrected - he rectified his mistake, and thus proved his corrigible nature
+discordant - conflicting - the views of the government an the people were discordant
+countenance - to approve of - no countenance will be given to your misbehavior
+discretion - cautious reserve in speech - you may proceed at your own discretion
+cozen - to deceive - his cozenness made him the king, not his accomplishments
+disinterested - unbiased - the judge is supposed to be disinterested amongst both the parties
+craven - lacking any courage - stop behaving as if you are craven, and go and ask her out
+disparage - belittle - dont disparage him for trying out new clothes
+credulous - gullible - the credulousness of the ponzi scheme was indeed true
+disparate - fundamentally distinct - apple and oragne are disparate
+crescendo - gradual increase in intensity - the crescend in the movie was long drawn and boring
+dissemble - to conceal - he dissembled the cash in various palces
+culpable - deserving blame - he is as culpable as you for stealing the money
+dissolution - disintegration - the dissolution of the commonwealth began with he fall of rick
+cynicism - scepticism - cynicism about politics
+dissonance - conflict - the findings are in dissonance with the expected resultsm leading to a failure of the experiment
+distrait - distracted - he was distrait when the walkers attacked
+assiduous - diligent - he was assiduously preparing for gre 
+broach - to bring up - always broach the topic of his bravery, if you want to get your work done quickly 
+assuage - to ease - the government assuaged the restrictions of lockdown 
+astringent - harsh - several astringent measures were taken to curb covid 19
+divulge - disclose something secret - he divulged the bdae plans to her running the surprise 
+attenuate - to weaken - the warriors attenuated the opposition army
+brook - to tolerate  - it is easy to brrok his mischief when u realise his efficiency in getting work done 
+audacious - fecklessly bold - he was audacious enough to go out during the lockdown
+doggerel - trivial verse - the amateur was capable of producing only doggrels
+augury - omen - passing of a black cat is known as a bad augury
+bucolic - rustic and pastoral characteristic of rural areas - after his village expanded to a town, the bucolicness was lost
+august - majestic - titanic was the most August ship of that time
+dogmatic - stubbornly opinionated - his dogmaticmess led to his fall as the governor
+auspice - to support  - we are with you and auspice your endeavor 
+burgeon - to grow rapidly  - the sales burgeoned after it was endorsed by her
+auspicious  - favorable - the conditions are auspicious for you to marry 
+dross - scum - the dross from the wine was removed before packaging 
+austere - bare - he laid himself austere in front of her to prove himself innocent 
+burnish - to rub to a shine - he burnished the metal prices such that they were shining 
+avarice - greed for wealth - his avariceness led to him adopting illegal methods 
+dulcet - melodious - the professional managed to produce a dulcet tone even in the absence of a few equipments 
+aver - to confirm - the lab reports averted my suspicion of the suspect 
+byzantine - complex - there are many byzantine problems which still haven't been solved 
+axiom - universally accepted truth - water is necessary for life is an axiom
+filigree - ornamental work of lace like pattern  - he has done filigrees on  sarees
+dupe - to deceive  - you can't dupe me into coming for the party
+flag  - decline - he flagged off the invitation to stay at home
+dynamo - energetic person  - he is always a dynamo, ready to go out at a moments notice 
+qualms - misgivings - I don't have any qualms about my decision to hire her
+prevaricate - mislead - his involvement with the theifs made him prevaricate the investigation 
+officious - meddlesome - his nosy nature has led him to be very meddlesome in her matters
+pristine - clean - always keep your area in pristine condition 
+flip - sarcastic - his flip remarks are what makes it difficult to under stand his true intentions
+prize - to pry - stop prizing on that woman and go approach her
+onerous - troubling - kids are very onerous when young
+probity - uprightness - his probity prohibited him to accept any "gifts" 
+opqaue - impermeable - the glass walls of the bathroom were made opaque 
+proclivity - natural inclination - he has a proclivity to make sand castles 
+oppobrium - disgrace - his deleterious actions bring opprobrium to our family name
+prodigal - wasteful  - the prodigal sons return after slacking for the entire day
+oscillation - undisturbed rhythm - oscillation of a pendulum
+prodigious - extraordinary  - they were surprised to see that the little girl made prodigious discoveries 
+ossified - change into bone, solidify - his views on the outcome solidified after he saw her cheat
+profligate - wasteful - don't let this holidays go profligate
+florid - flushed with color - her paintings have a florid sense, you can see every color in there 
+profuse - abundant - the farmer was blessed with a profuse produce this year
+ostensify - seeming - his ostenfiy innocence can be dangerous
+prolific - productive  - he had a prolific time at the museum 
+flout - demonstrate contempt for - she flouted her curfew time to go to the pub
+prolix - verbose - he is an accomplished prolix, orator
+ostentatious - characterized by pretentiousness - he was being ostentatious by claiming innocence for the damage 
+propensity - penchant  - I have a propensity to you
+foment - incite - the traitor foment the riot
+propinquity - nearness in time or space  - the propinquity between the flat and the supermarket was astonishingly small
+overweening - arrogant - his overweening nature led to him losing his friends 
+propitiate - to appease - he has been behind her the full day, trying hard to propitiate her into giving him a chance 
+forbearance  - patience  - I'm losing my forebearnce, snapped the teacher 
+queries  - questions - any queries can be asked after the lecture ends
+eschew - avoid - he had been eschewing us all day, which meant he had done something wrong
+ford - to wade across a shallow river - crossing the Ford made my pants wet
+esoteric - understood by a small group - don't talk in technical terms, it is esoteric, talk in plain english
+forestall - thwart - he forestalled the robbery
+essay - try - he essayed to cook up a delicious meal
+foreswear - to renounce - the king forsweared his allegiance to the alliance 
+estimable - formidable - being ranked no 1 means that you're an estimable opponent 
+fortuitous - happening by chance - meeting her was not fortuitous, I had it entirely planned
+eulogy - speech honoring the dead - the pm aired a eulogy for the martyrs
+noisome - offensive  - nazi salute is considers an offensive greeting
+evanescent  - vanishing - camphor has an evanescent naturr
+querulos - quarrelsome - his querulous nature led to his demotion in the rank
+evince - to show clearly - he evinced the authorities that he had nothing to hide
+fracas - brawl - the old Town Road is know for its bars, always brimming with fracas
+exacerbate - to make worse - lying in the court of law will exacerbate things for you
+nonplussed - baffled - seeing him float in the air left us nonplussed
+exact - demand - physical labour exacted a lot of hard work form him
+fractious - quarrelsome - his fractious nature led to his demotion 
+excoriate - to upbraid  - qqqqqq
+nostrum - placebo - the nostrum for covid 18 was a fake
+exculpate - exonerate  - the court exculpated him after his innocence was proved 
+exemplar - paradigm - that examplar project has to be given the first prize 
+quiescence - stillness - Drax believed that having mastered the art of  quiescence  would make him invisible to others 
+exhort - incite - he was arrested for exhorting the riots
+fulminate - to attack loudly - the war started when both the parties fulminated 
+exigent - urgent - this is exigent news, it should reach the press immediately 
+noxious - harmful - going out during lockdown is noxious
+exonerate - to remove blame - the court exonerate him after his innocence was proved 
+fortive - covert - the army is known for its forgive operations 
+propitious - auspicious - this is a propitious occasion to start the puja 
+expatiate - to disarm at length  - qqqqqq
+propriety  - appropriateness - they were appalled at his openness, since they both were on different levels of propriety
+expiate - to make amends for - he expiated on behalf of the country for the wrongings on migrants
+prosaic - dull  - add some bright colors to the painting, it looks so prosaic 
+expurgate - purify  - they expurgated the areas which were dirty
+prescribe  - to outlaw - he prescribed the consumption of alchohol in his area 
+quotidian - recurring  - the quotidian nature of the storm was concerning 
+provident  - frugal - his provident savings did not allow him to buy anything other than extremely essential things 
+extant - existing  - some think that the gold stored the the kings is extant till today
+puerile - childish  - stop your puerile behavior and become mature 
+extemporaneous  - improvised - his extemporaneous speech left everyone surprised 
+pugnacious - Contetious - hjs pugnacious nature has often had him get injured
+extirpate - exterminate  - pest control was called to extirpate roaches 
+punctilious  - precise - extreme punctiliousness is required for this threading the needle
+pundit - authority - the pundit was the head of the department 
+pungent - penetration smell or taste  - ammonia has a pungent smell 
+putrefy - to rot - excess food has been putrefying in the kitchen since days
